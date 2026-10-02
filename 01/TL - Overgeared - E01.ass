@@ -1,0 +1,506 @@
+[Script Info]
+Title: pn-SomeSubs - Overgeared
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,50,1
+Style: italics,Trebuchet MS,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3,0,2,20,20,50,0
+Style: top,Trebuchet MS,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,50,0
+Style: italicstop,Trebuchet MS,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,50,0
+Style: flashback,Roboto Medium,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Trebuchet MS,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Trebuchet MS,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Trebuchet MS,78,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Trebuchet MS,24,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Trebuchet MS,24,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: screen_text,Verdana,20,&H00F0E8E4,&H000019FF,&H0070635B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.79,0:00:10.57,italics,Narr,0,0,0,,İnsanlar sürekli çalışıp gelişiyor.
+Dialogue: 0,0:00:04.79,0:00:10.57,italics,Narr,0,0,0,,{\fs50\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Patrol\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Patrol\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Patrol\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:13.20,0:00:19.77,Default,Narr,0,0,0,,Bizi tehdit edecek güçlü bir şey ortaya çıkarsa...
+Dialogue: 0,0:00:24.16,0:00:27.88,italics,Narr,0,0,0,,...büyük ihtimalle o da \Nbizzat bi' insan olur.
+Dialogue: 0,0:00:54.28,0:00:56.03,Default,Takumi,0,0,0,,{\c&H9DE647&\fnQuick Board}Muhafız Kalkanı!
+Dialogue: 0,0:00:58.37,0:01:00.12,Default,Takumi,0,0,0,,Gördün mü? Şaşkınsın!
+Dialogue: 0,0:01:03.00,0:01:06.88,Default,Takumi,0,0,0,,Öyle görünmüyor olabilirim ama \N73. seviyeyim ben! Beni öyle kolay lokma \Nsancaksın ha...?
+Dialogue: 0,0:01:18.67,0:01:19.51,Default,Takumi,0,0,0,,Lanet olsun!
+Dialogue: 0,0:01:19.51,0:01:22.10,Default,Takumi,0,0,0,,Ben bu görevi bitirebilecek miyim cidden?!
+Dialogue: 1,0:01:20.45,0:01:24.95,screen_text,Sign,0,0,0,,{\b0\fs8\fad(88,116)\fscx331\fscy331\pos(1520.666,64.333)}Görev\N{\b1\fs10}Kont Ashur'un Gizli İsteği (S)\N\N{\b0}Patrian'ın yöneticisi sana, demirci Pagma'nın \Ntekniklerini içeren gizli tomarı bulmanı emretti!\N\NTamamlama Ödülü: Güneş Kılıcı\NBaşarısızlık: Patrian bölgesine giriş yasağı, seviye -2
+Dialogue: 0,0:01:20.45,0:01:24.95,screen_text,Sign,0,0,0,,{\an9\bord0\p1\alpha&H20&\c&H987B63&\pos(1896,32)\fscx385\fscy713}m 0 0 l 200 0 200 44 0 44
+Dialogue: 0,0:01:21.13,0:01:22.48,italicstop,AI,0,0,0,,Sistem rehberliği.
+Dialogue: 0,0:01:22.48,0:01:25.66,italics,AI,0,0,0,,{\pos(970,100)}Mevcut göreviniz: Gizli Bir İstek...
+Dialogue: 0,0:01:24.95,0:01:26.82,screen_text,Sign,0,0,0,,{\alpha&H20&\fad(93,0)\c&HECEDF2&\3c&H555569&\fscx396\fscy312\pos(1098,630)\frz0}Bu görev iptal edilemez.
+Dialogue: 0,0:01:25.66,0:01:27.79,italics,AI,0,0,0,,{\c&H3D2AAF&}Bu görev iptal edilemez.
+Dialogue: 0,0:01:27.43,0:01:28.78,top,Takumi,0,0,0,,Ashur!
+Dialogue: 0,0:01:29.00,0:01:32.49,Default,Takumi,0,0,0,,Sen sadece lanet olası bir NPC'sin! \NNasıl bana böyle imkânsız bir görev verirsin?!
+Dialogue: 0,0:01:45.42,0:01:51.10,Default,Takumi,0,0,0,,Lanet olsun bu aptal oyuna!
+Dialogue: 0,0:01:55.21,0:01:59.18,italics,Takumi,0,0,0,,{\i0}Satisfy{\i1}, dünyanın en iyi \Nsanal gerçeklik oyunu.
+Dialogue: 0,0:02:05.24,0:02:09.50,italics,Takumi,0,0,0,,Dünya çapında iki milyar oyuncusu var.
+Dialogue: 0,0:02:10.25,0:02:15.26,italics,Takumi,0,0,0,,O kadar büyük bir fantastik dünyası var ki, \Nsık sık "başka bir Dünya" diye anılıyor.
+Dialogue: 0,0:02:19.69,0:02:22.82,italicstop,Takumi,0,0,0,,Oyunda kazandığın para ve şöhret,
+Dialogue: 0,0:02:22.82,0:02:27.13,italicstop,Takumi,0,0,0,,gerçek dünyadaki banka hesabına \Nve sosyal konumuna yansıyor,
+Dialogue: 0,0:02:25.42,0:02:30.31,sign_generic,Sign,0,0,0,,{\p1\c&HEEEEEE&\3c&H00003000&\4c&H00000000&\bord0\shad0\fscx535\fscy261\pos(944,864)}m 0 0 l 300 0 l 300 50 l 0 50{\p0}
+Dialogue: 0,0:02:25.42,0:02:30.31,sign_generic,Sign,0,0,0,,{\fad(0,119)\fnArial Black\c&H1C1C1C&\3c&HEDEDED&\fscx471\fscy395\pos(950,879)}Şu Anda Dünyanın En İyi Oyuncuları!
+Dialogue: 0,0:02:27.13,0:02:30.39,italicstop,Takumi,0,0,0,,bu yüzden etkisi çok büyük.
+Dialogue: 0,0:02:35.26,0:02:37.34,Default,Takumi,0,0,0,,Lanet olsun!
+Dialogue: 0,0:02:37.66,0:02:41.18,Default,Takumi,0,0,0,,Hepsi Kont Ashur'un suçu!
+Dialogue: 0,0:02:42.86,0:02:47.31,Default,Takumi,0,0,0,,Hem de benim suçum, sadece 73. seviyeyken \Ngizli S-Rank bir görevi kabul ettiğim için.
+Dialogue: 0,0:02:49.09,0:02:52.90,Default,Takumi,0,0,0,,Sanırım bunlar 300. seviye falan \Noyuncular için.
+Dialogue: 0,0:02:53.70,0:02:56.61,italics,Takumi,0,0,0,,Ama bu oyunda çok çalışırsam,
+Dialogue: 0,0:02:57.80,0:02:58.91,italics,Takumi,0,0,0,,ben de...
+Dialogue: 0,0:03:00.49,0:03:02.64,italics,Takumi,0,0,0,,ben de zengin olabilirim!
+Dialogue: 0,0:03:04.96,0:03:07.71,Default,Takumi,0,0,0,,Buldum! Buldum!
+Dialogue: 0,0:03:07.71,0:03:10.12,Default,Takumi,0,0,0,,Ne uzun ve meşakkatli bir yoldu...
+Dialogue: 0,0:03:10.12,0:03:13.24,Default,Takumi,0,0,0,,Şu lanet görev yüzünden eşyayı atamıyordum.
+Dialogue: 0,0:03:13.24,0:03:15.80,Default,Takumi,0,0,0,,Öyle sinirlendim ki hesabımı neredeyse silecektim!
+Dialogue: 0,0:03:16.88,0:03:21.07,screen_text,Sign,0,0,0,,{\fad(0,78)\fs10\c&HEBE8E7&\3c&H6B5957&\pos(978,400)\fscx550\fscy548}Efsanevi Zanaatkârın Kitabı
+Dialogue: 0,0:03:16.88,0:03:21.07,screen_text,Sign,0,0,0,,{\fad(0,78)\fs10\c&HEBE8E7&\3c&H6B5957&\fscx716\fscy518\pos(962.001,579.333)}Rütbe ???
+Dialogue: 0,0:03:16.88,0:03:21.07,screen_text,Sign,0,0,0,,{\fad(0,78)\b0\fs10\c&HFFFFFF&\3c&H55483F&\pos(992,794)\fscx397\fscy501}Bu kitabı tanımlamak için "Pallalian'ın Gözü" gereklidir.
+Dialogue: 0,0:03:17.29,0:03:18.86,Default,Takumi,0,0,0,,Tanımlanamıyor...
+Dialogue: 0,0:03:18.86,0:03:21.31,Default,Takumi,0,0,0,,Pallalian'ın Gözü...
+Dialogue: 0,0:03:24.74,0:03:26.35,screen_text,Sign,0,0,0,,{\fs18\fad(89,0)\c&H726BCB&\3c&H514C4F&\fscx310\fscy310\pos(1025.333,464.667)}Pallalian'ın Gözü
+Dialogue: 0,0:03:24.76,0:03:26.35,screen_text,Sign,0,0,0,,{\fs9\fad(89,0)\c&HECE7E0&\3c&H665D4D&\fscx315\fscy463\pos(1447.333,623.333)}En yüksek seviye tanımlama eşyası
+Dialogue: 0,0:03:24.76,0:03:26.35,screen_text,Sign,0,0,0,,{\fs9\fad(89,0)\c&HECE7E0&\3c&H665D4D&\fscx378\fscy420\pos(1337.333,698)}Fiyat: 500 Altın
+Dialogue: 0,0:03:24.80,0:03:26.35,Default,Takumi,0,0,0,,Beş yüz altın...
+Dialogue: 0,0:03:26.35,0:03:27.58,Default,Takumi,0,0,0,,Şey...
+Dialogue: 0,0:03:27.58,0:03:30.33,Default,Takumi,0,0,0,,Yüz altın 12.000 yen olduğuna göre...
+Dialogue: 0,0:03:30.33,0:03:32.82,Default,Takumi,0,0,0,,Bir, iki, üç, dört, beş...
+Dialogue: 0,0:03:33.22,0:03:34.66,Default,Takumi,0,0,0,,60.000 yen mi?!
+Dialogue: 0,0:03:34.66,0:03:37.22,Default,Takumi,0,0,0,,Tek bir eşyayı tanımlatmak için mi?!
+Dialogue: 0,0:03:37.22,0:03:39.73,Default,Takumi,0,0,0,,Şu andaval geliştiricilerin canı cehenneme be!
+Dialogue: 0,0:03:39.73,0:03:41.94,Default,Takumi,0,0,0,,Kahretsin! Yine para mı harcamam gerekecek?
+Dialogue: 0,0:03:41.94,0:03:44.29,Default,Takumi,0,0,0,,Yine borca mı gireceğim?
+Dialogue: 0,0:03:48.08,0:03:51.04,Default,Takumi,0,0,0,,Gelecek ay bunu ödemek de sana kaldı, Takumi!
+Dialogue: 0,0:03:51.66,0:03:56.09,italics,AI,0,0,0,,Sistem bilgilendirmesi. "Efsanevi Zanaatkârın Kitabı" tanımlanıyor.
+Dialogue: 0,0:03:58.97,0:04:00.71,italics,AI,0,0,0,,Tanımlama tamamlandı.
+Dialogue: 0,0:04:01.74,0:04:04.72,italics,AI,0,0,0,,Efsanevi bir eşya keşfettiniz.
+Dialogue: 0,0:04:04.72,0:04:11.77,screen_text,Sign,0,0,0,,{\alpha&H40&\c&H87EAFC&\pos(320,74)\3c&H92A37F&\fad(2360,0)}Pagma'nın Kitabı
+Dialogue: 0,0:04:04.72,0:04:11.77,screen_text,Sign,0,0,0,,{\alpha&H40&\an3\fs15\3c&HC1BB81&\pos(268,155.333)\c&HFAF2DC&}Rütbe:
+Dialogue: 0,0:04:04.72,0:04:11.77,screen_text,Sign,0,0,0,,{\alpha&H40&\an1\c&H87EAFC&\3c&H92A37F&\fad(2360,0)\pos(283.334,156.666)}Efsanevi
+Dialogue: 0,0:04:05.05,0:04:08.80,italics,AI,0,0,0,,Bu kitap, ölümlülerin yetenek sınırlarını aşmış
+Dialogue: 0,0:04:08.80,0:04:11.77,italics,AI,0,0,0,,bir demirci olan Pagma'nın tekniklerini içeriyor.
+Dialogue: 0,0:04:12.02,0:04:15.73,italics,AI,0,0,0,,Kitabı açarsanız sınıfınız \N"Pagma'nın Halefi" olarak değişecek.
+Dialogue: 0,0:04:16.18,0:04:18.46,italics,AI,0,0,0,,Kıta genelinde tanınacak,
+Dialogue: 0,0:04:18.46,0:04:20.94,italics,AI,0,0,0,,ve bu dünyanın efsanesi olacaksınız.
+Dialogue: 0,0:04:25.77,0:04:27.84,Default,Takumi,0,0,0,,Pagma'nın Halefi...
+Dialogue: 0,0:04:30.58,0:04:32.33,Default,Takumi,0,0,0,,İşte bu!
+Dialogue: 0,0:04:32.70,0:04:34.44,Default,Takumi,0,0,0,,Efsanevi bir sınıf değiştirme kitabı mı?!
+Dialogue: 0,0:04:34.44,0:04:38.22,Default,Takumi,0,0,0,,Yani başka hiç kimsede olmayan \Nbir sınıfa sahip olabilirim!
+Dialogue: 0,0:04:39.13,0:04:40.90,italics,Takumi,0,0,0,,Sakin ol, Grid...
+Dialogue: 0,0:04:40.90,0:04:44.60,italics,Takumi,0,0,0,,Bu kitabı müşteriye \N götürdün mü, görev biter.
+Dialogue: 0,0:04:44.60,0:04:47.43,italics,Takumi,0,0,0,,Ödülünü de alırsın ama...
+Dialogue: 0,0:04:47.43,0:04:50.05,Default,Takumi,0,0,0,,Ama açık pazarda satsam \N çok daha fazla kazanırım!
+Dialogue: 0,0:04:50.05,0:04:52.41,Default,Takumi,0,0,0,,Milyonlarca yen falan eder bence!
+Dialogue: 0,0:04:52.41,0:04:55.42,Default,Takumi,0,0,0,,Oyuna harcadığım parayı \N fazlasıyla çıkarır bu, o yüzden...
+Dialogue: 0,0:04:55.42,0:04:57.40,Default,Takumi,0,0,0,,Çıkış yapma vakti!
+Dialogue: 0,0:04:59.75,0:05:00.78,screen_text,Sign,0,0,0,,{\fad(91,0)\c&HDDDEE6&\3c&H585965&\pos(1023.333,752.667)\fscx237\fscy462\frx2\fry338\frz8.199}Oyun kapatılamaz
+Dialogue: 0,0:05:01.14,0:05:01.66,Default,Takumi,0,0,0,,Ha?
+Dialogue: 0,0:05:01.66,0:05:02.74,italics,AI,0,0,0,,Sistem bilgilendirmesi.
+Dialogue: 1,0:05:02.74,0:05:04.51,screen_text,Sign,0,0,0,,{\b0\fs8\pos(954.666,314.333)\fscx336\fscy650}Görev\N{\b1\fs10}Earl Ashur'ın Gizli İsteği (S)\N\N{\b0}Patrian hükümdarı sana, \ndemirci Pagma'nın tekniklerini içeren \ngizli bir tomar bulmanı emretti!\N\NBaşarı Ödülü: Güneş Kılıcı\NBaşarısızlık: Patrian bölgesine \nerişim yasağı, seviye -2
+Dialogue: 0,0:05:02.74,0:05:04.49,screen_text,Sign,0,0,0,,{\an9\bord0\p1\alpha&H20&\c&H987B63&\pos(1668,200)\fscx732\fscy1741}m 0 0 l 200 0 200 44 0 44
+Dialogue: 0,0:05:03.19,0:05:06.76,italics,AI,0,0,0,,Seçimin görevin \N içeriğini değiştirdi.
+Dialogue: 0,0:05:04.49,0:05:10.21,screen_text,Sign,0,0,0,,{\an9\bord0\p1\alpha&H20&\c&H987B63&\pos(1668,200)\fscx732\fscy1741}m 0 0 l 200 0 200 44 0 44
+Dialogue: 1,0:05:04.51,0:05:10.21,screen_text,Sign,0,0,0,,{\b0\fs8\fscx402\fscy703\pos(954.666,326.333)}Görev\N{\b1\fs10}Earl Ashur'ın Öfkesi (SS)\N\N{\b0}Patrian hükümdarı sana fena \nkızdı ve kitabı geri almak için \nsana saldıracak.\N\NBaşarı Şartı: Earl Ashur'ı ve \nkoruyucu şövalyelerini öldür\NBaşarısızlık: Oyuncu ölümü,\nseviye -2 ve Patrian bölgesine \nerişim yasağı
+Dialogue: 0,0:05:07.14,0:05:09.37,italics,AI,0,0,0,,Bu görev özel, iptal edilemez,
+Dialogue: 0,0:05:09.37,0:05:11.76,italics,AI,0,0,0,,oyun devam edecek.
+Dialogue: 0,0:05:12.19,0:05:16.81,italics,AI,0,0,0,,Yeni görev "Earl Ashur'ın \N Öfkesi (SS)".
+Dialogue: 0,0:05:16.81,0:05:20.34,italics,AI,0,0,0,,Patrian hükümdarı kitabı çaldığın için \N sana fena sinirlendi,
+Dialogue: 0,0:05:20.34,0:05:24.89,italics,AI,0,0,0,,ve kitabı geri almak için \N seni öldürmeyi istiyorlar.
+Dialogue: 0,0:05:24.89,0:05:27.26,Default,Ashur,0,0,0,,Açgözlü aptal.
+Dialogue: 0,0:05:27.26,0:05:29.78,Default,Ashur,0,0,0,,Benimle anlaşma yapmana rağmen,
+Dialogue: 0,0:05:27.64,0:05:32.19,italicstop,AI,0,0,0,,AI: Başarı şartı: Earl Ashur'ı \N ve koruyucu şövalyelerini öldürmek.
+Dialogue: 0,0:05:29.04,0:05:32.19,top,Takumi,0,0,0,,Earl Ashur mı? Şaka mı yapıyorsun sen?!
+Dialogue: 0,0:05:29.78,0:05:32.60,Default,Ashur,0,0,0,,güvenimizi hiçe sayıp \N böyle aptalca bir işe kalkıştın...
+Dialogue: 0,0:05:32.60,0:05:34.62,Default,Ashur,0,0,0,,Hak ettiğini vereyim ben sana.
+Dialogue: 0,0:05:34.62,0:05:37.23,Default,Takumi,0,0,0,,Hadi oradan! Bunun için götümü yırttım ben—
+Dialogue: 0,0:05:35.41,0:05:38.19,italicstop,AI,0,0,0,,AI: Başarısızlık oyuncunun ölmesi ile sonuçlanır,
+Dialogue: 0,0:05:37.23,0:05:38.19,Default,Ashur,0,0,0,,Ölüm.
+Dialogue: 0,0:05:38.19,0:05:40.87,italicstop,AI,0,0,0,,AI: ayrıca itibarın da düşecek,
+Dialogue: 0,0:05:39.69,0:05:40.87,Default,Ashur,0,0,0,,Yakala onu!
+Dialogue: 0,0:05:40.87,0:05:43.33,italicstop,AI,0,0,0,,ve Patrian bölgesine \N erişimini engelleyecek.
+Dialogue: 0,0:05:43.33,0:05:47.53,italicstop,AI,0,0,0,,Üstelik S ya da üzeri \N rütbeli bir görevi tamamlayamaman
+Dialogue: 0,0:05:45.76,0:05:46.66,italics,Takumi,0,0,0,,Kahretsin!
+Dialogue: 0,0:05:46.66,0:05:50.06,italics,Takumi,0,0,0,,Bunun için bu kadar uğraştım, \N Ve böyle mi bitecek yani?
+Dialogue: 0,0:05:47.53,0:05:50.06,italicstop,AI,0,0,0,,seviyeni 2 düşürecek.
+Dialogue: 0,0:05:50.06,0:05:52.00,italics,Takumi,0,0,0,,Haksızlık bu!
+Dialogue: 0,0:05:54.08,0:05:55.58,Default,Ashur,0,0,0,,Kitabı hemen geri alın!
+Dialogue: 0,0:06:00.48,0:06:02.09,Default,Takumi,0,0,0,,Çok yazık.
+Dialogue: 0,0:06:02.09,0:06:04.13,Default,Takumi,0,0,0,,Çok geç artık, dolandırıcı!
+Dialogue: 0,0:06:05.59,0:06:07.16,italics,AI,0,0,0,,Sistem bilgilendirmesi.
+Dialogue: 0,0:06:05.73,0:06:10.56,screen_text,Sign,0,0,0,,{\bord1.5\fad(93,0)\alpha&H20&\frx18\fry346\frz356.7\c&HEAE5F0&\3c&H8D878C&\move(287.333,131.333,264,123.333,0,4806)}Sınıf Değişimi Başlatılıyor
+Dialogue: 0,0:06:07.16,0:06:11.48,italics,AI,0,0,0,,Mevcut sınıfının tüm yetenekleri \N ve istatistikleri sıfırlanacak.
+Dialogue: 0,0:06:11.48,0:06:15.35,italics,AI,0,0,0,,Sınıfın "Efsanevi Zanaatkar, \N Pagma'nın Halefi" olarak değişecek.
+Dialogue: 0,0:06:22.24,0:06:25.36,italics,AI,0,0,0,,Usta Demircilik yeteneklerini öğreneceksin.
+Dialogue: 0,0:06:25.82,0:06:29.89,italics,AI,0,0,0,,Tüm Usta Demircilik \N yeteneğinde ustalaşmanla...
+Dialogue: 0,0:06:29.89,0:06:34.16,italics,AI,0,0,0,,en üst düzey teknikler olan, \N Efsanevi Demircilik tekniklerini açtı.
+Dialogue: 0,0:06:34.57,0:06:37.08,italics,AI,0,0,0,,"Yılmazlık" istatistiği açıldı.
+Dialogue: 0,0:06:43.70,0:06:45.55,italics,AI,0,0,0,,Sınıf değişimi tamamlandı.
+Dialogue: 0,0:06:45.55,0:06:48.46,italics,Takumi,0,0,0,,İçimden bir güç yükseliyor resmen...
+Dialogue: 0,0:06:45.73,0:06:48.65,screen_text,Sign,0,0,0,,{\fad(634,76)\fs15\c&HBFEBF1&\3c&H939B9F&\pos(998,632.001)\fscx373\fscy478}Efsanevi Olan
+Dialogue: 0,0:06:45.92,0:06:48.65,screen_text,Sign,0,0,0,,{\fad(235,76)\c&HFEF7F4&\3c&HAD978E&\fscx393\fscy377\pos(991.333,296.667)}Başlık
+Dialogue: 0,0:06:46.60,0:06:48.85,italicstop,AI,0,0,0,,Bir başlık kazanıldı.
+Dialogue: 0,0:06:49.10,0:06:51.38,italics,Takumi,0,0,0,,Şu Ashur'un paniklemesine bak sen.
+Dialogue: 0,0:06:51.38,0:06:52.43,italics,Takumi,0,0,0,,Ne güzel hissettiriyor be!
+Dialogue: 0,0:06:55.74,0:06:58.44,Default,Takumi,0,0,0,,Hazır olun bakalım hepiniz!
+Dialogue: 0,0:06:59.29,0:07:01.32,Default,Takumi,0,0,0,,Hepinizin haddini bildireceğim—
+Dialogue: 0,0:06:59.90,0:07:01.32,italicstop,AI,0,0,0,,Seviyen 1.
+Dialogue: 0,0:07:12.72,0:07:16.14,screen_text,Sign,0,0,0,,{\c&H000000&\3c&H000000&\t(0,462,\3c&H70635B&\c&HF0E8E4&)\fad(462,414)\pos(964.667,632.667)\fscx390\fscy321}Öldün
+Dialogue: 0,0:07:13.36,0:07:17.78,italics,AI,0,0,0,,SS rütbeli bir görevi batırdığın için\Nseviyen 2 düştü.
+Dialogue: 0,0:07:19.66,0:07:23.04,italics,AI,0,0,0,,Şu anki seviyen -1.
+Dialogue: 0,0:07:27.22,0:07:30.72,sign_generic,Sign,0,0,0,,{\b1\bord1\fs70\an3\pos(1438,1056)}Tokyo
+Dialogue: 0,0:07:30.82,0:07:36.02,sign_generic,Sign,0,0,0,,{\fs11\fad(505,0)\b1\bord1\i1\pos(1361.333,770.666)\fscx296\fscy360}Satisfy{\i0} Geliştirme ve Operasyon Şirketi
+Dialogue: 0,0:07:30.82,0:07:36.02,sign_generic,Sign,0,0,0,,{\fs32\fad(505,0)\b1\bord1\pos(1368.667,988)\fscx137\fscy138}S.A. Grup
+Dialogue: 0,0:07:31.82,0:07:36.02,top,Yazaki,0,0,0,,Bu kadar erken çağrılacağıma\Ninanamıyorum ya.
+Dialogue: 0,0:07:36.02,0:07:37.40,top,Futaba,0,0,0,,Yapacak bir şey yok be.
+Dialogue: 0,0:07:36.49,0:07:40.98,sign_generic,Sign,0,0,0,,{\an1\fs9.5\b1\bord1\fscx302\fscy593\pos(854.667,888)}Oyun Geliştirme ve Operasyonları Acil Durum Üst Düzey Üyeler Konferansı
+Dialogue: 0,0:07:37.40,0:07:40.98,top,Futaba,0,0,0,,Efsanevi bir sınıf değiştiricinin\Nortaya çıkması şaşırtıcı bir olay, değil mi?
+Dialogue: 0,0:07:40.98,0:07:42.13,Default,Yazaki,0,0,0,,Aynen.
+Dialogue: 0,0:07:41.46,0:07:45.94,sign_generic,Sign,0,0,0,,{\fs12\bord1\fscx423\fscy347\pos(340,475.333)}CEO
+Dialogue: 0,0:07:41.46,0:07:45.94,sign_generic,Sign,0,0,0,,{\b1\bord1\fscx216\fscy263\pos(343.333,691.333)}Yazaki Isao
+Dialogue: 0,0:07:42.13,0:07:45.94,Default,Yazaki,0,0,0,,Daha önce Doğu Kıta'ya giden\Noyuncuya da şaşırmıştım zaten.
+Dialogue: 0,0:07:46.28,0:07:49.16,Default,Shimamura,0,0,0,,"Behen Takımadaları'nın\NMeydan Okuyucusu," değil mi?
+Dialogue: 0,0:07:46.42,0:07:50.91,sign_generic,Sign,0,0,0,,{\fs12\bord1\pos(1572.666,478.667)\fscx410\fscy373}Şube Müdürü
+Dialogue: 0,0:07:46.42,0:07:50.91,sign_generic,Sign,0,0,0,,{\fs16.5\b1\bord1\pos(1579.333,722.666)\fscx290\fscy283}Shimamura Ryuji
+Dialogue: 0,0:07:49.16,0:07:52.29,Default,Shimamura,0,0,0,,Zorluğu Ashur seviyesi ve üstüydü.
+Dialogue: 0,0:07:51.38,0:07:55.87,sign_generic,Sign,0,0,0,,{\fs11\bord1\fscx282\fscy400\pos(390.666,470.667)}Yönetim Kurulu Üyesi
+Dialogue: 0,0:07:51.38,0:07:55.87,sign_generic,Sign,0,0,0,,{\b1\bord1\fscx227\fscy260\pos(392.666,695.333)}Futaba Toshiyuki
+Dialogue: 0,0:07:52.29,0:07:54.05,Default,Futaba,0,0,0,,Doğu'ya gitti gitti de,
+Dialogue: 0,0:07:54.05,0:07:56.60,Default,Futaba,0,0,0,,ama takımadalar hala\Ntemizlenemedi.
+Dialogue: 0,0:07:56.60,0:07:58.60,Default,Shimamura,0,0,0,,Sırada neler olacak merak ediyorum.
+Dialogue: 1,0:07:58.60,0:08:00.36,Default,Hinako,0,0,0,,Veriler bende.
+Dialogue: 0,0:07:58.60,0:07:59.83,sign_generic,Sign,0,0,0,,{\fs12\bord1\pos(432.666,718.667)\fscx294\fscy408}Operasyon Ekibi
+Dialogue: 0,0:07:58.60,0:07:59.83,sign_generic,Sign,0,0,0,,{\b1\bord1\fscx235\fscy273\pos(432.666,952)}Futaba Hinako
+Dialogue: 0,0:08:00.36,0:08:03.55,Default,Sakaeda,0,0,0,,Tamamdır. Acil soruşturma \Nraporunu dinleyelim bakalım.
+Dialogue: 0,0:08:01.41,0:08:03.55,sign_generic,Sign,0,0,0,,{\fs11\bord1\fscx268\fscy396\pos(416.666,333.334)}S.A. Grup Lideri & Satisfy Geliştiricisi
+Dialogue: 0,0:08:01.41,0:08:03.55,sign_generic,Sign,0,0,0,,{\b1\bord1\pos(417.333,698)\fscx210\fscy255}Sakaeda Tetsuhiro
+Dialogue: 0,0:08:03.55,0:08:04.70,Default,Hinako,0,0,0,,Pekala.
+Dialogue: 0,0:08:04.70,0:08:07.81,Default,Hinako,0,0,0,,Şu efsanevi sınıf değişimi \Ngeçiren oyuncu...
+Dialogue: 0,0:08:07.81,0:08:12.05,Default,Hinako,0,0,0,,ID'si "Grid", gerçek hayattaki \Nadı da Nagamine Takumi.
+Dialogue: 0,0:08:12.05,0:08:14.71,Default,Hinako,0,0,0,,25 yaşında, Japon bir kullanıcı.
+Dialogue: 0,0:08:15.24,0:08:18.28,Default,Hinako,0,0,0,,Aslında 73. seviye bir savaşçıymış,
+Dialogue: 0,0:08:18.28,0:08:20.69,Default,Hinako,0,0,0,,ama şimdiki seviyesi -1.
+Dialogue: 0,0:08:21.08,0:08:24.66,Default,Hinako,0,0,0,,Gördüğünüz üzere, yetenek açısından \Nortalama altı birisi
+Dialogue: 0,0:08:24.66,0:08:26.65,Default,Hinako,0,0,0,,ve pek de özel biri gibi durmuyor.
+Dialogue: 0,0:08:26.65,0:08:29.31,Default,Hinako,0,0,0,,Operasyon ekibi için hayal kırıklığı ama...
+Dialogue: 0,0:08:30.32,0:08:32.99,Default,Hinako,0,0,0,,Bu efsanevi sınıf değişimi, \Nbüyük ihtimalle bir tesadüf.
+Dialogue: 0,0:08:35.00,0:08:35.91,Default,Sakaeda,0,0,0,,Tesadüf mü?
+Dialogue: 0,0:08:36.70,0:08:38.59,Default,Sakaeda,0,0,0,,Emin misin?
+Dialogue: 0,0:08:40.00,0:08:44.80,Default,Sakaeda,0,0,0,,{\i1}Satisfy{\i0}'de zaten bir sürü \Npopüler ve yüksek rütbeli oyuncu var.
+Dialogue: 0,0:08:45.80,0:08:50.76,Default,Sakaeda,0,0,0,,Mesela, oyundaki en yüksek \Ngenel rütbeye sahip Kraugel.
+Dialogue: 0,0:08:51.26,0:08:55.56,Default,Sakaeda,0,0,0,,Ya da Tzedakah loncasının \Nlonca lideri Jishuka,
+Dialogue: 0,0:08:55.56,0:08:58.55,Default,Sakaeda,0,0,0,,ki bu loncada bir sürü üst düzey \Noyuncu ve en iyi okçu bulunuyor.
+Dialogue: 0,0:08:59.22,0:09:02.35,Default,Sakaeda,0,0,0,,İkisi de çok yetenekli, \Nama normal sınıflar.
+Dialogue: 0,0:09:02.96,0:09:07.94,Default,Sakaeda,0,0,0,,Elbette, normalden daha yüksek \Nrütbeli sınıflara mensup olanlar da var, ama...
+Dialogue: 0,0:09:08.22,0:09:12.88,Default,Sakaeda,0,0,0,,Grid ise en yüksek rütbeli, \Nefsanevi bir sınıf olan Pagma'nın Halefi oldu,
+Dialogue: 0,0:09:12.88,0:09:17.36,Default,Sakaeda,0,0,0,,sanki en popüler oyuncuları \Narkadan dolaşmış gibi.
+Dialogue: 0,0:09:17.74,0:09:20.45,Default,Hinako,0,0,0,,Ama Morpheus'un tahmini şuydu ki,
+Dialogue: 0,0:09:20.45,0:09:25.49,Default,Hinako,0,0,0,,Pagma'nın Cildi oyun zamanına \Ngöre iki yıl sonra keşfedilecekti.
+Dialogue: 0,0:09:25.49,0:09:28.20,Default,Hinako,0,0,0,,Hata kontrolü yaptık ama \Nbir şey göremedik.
+Dialogue: 0,0:09:28.20,0:09:30.11,Default,Hinako,0,0,0,,Sistem olması gerektiği gibi çalışıyor.
+Dialogue: 0,0:09:30.42,0:09:34.24,Default,Sakaeda,0,0,0,,Yani güçlü bir sınıf kazanmış \Nve
+Dialogue: 0,0:09:34.24,0:09:36.81,Default,Sakaeda,0,0,0,,beklemediğimiz bir şekilde \Navantaj elde etmiş.
+Dialogue: 0,0:09:38.06,0:09:39.36,Default,Sakaeda,0,0,0,,Eksi seviye.
+Dialogue: 0,0:09:40.12,0:09:43.63,Default,Sakaeda,0,0,0,,Grid sınıf değiştirdiği \Nan görevde başarısız oldu,
+Dialogue: 0,0:09:43.63,0:09:47.99,Default,Sakaeda,0,0,0,,ve başarısızlık cezası yüzünden \Nseviyesi -1 oldu.
+Dialogue: 0,0:09:48.69,0:09:52.78,Default,Sakaeda,0,0,0,,Ama bu, sadece çok zor bir görevi \Nüstlendiği için mümkün oldu.
+Dialogue: 0,0:09:52.78,0:09:56.63,Default,Sakaeda,0,0,0,,ki normalde 10. seviyenin altındaki \Nçömezler asla kabul edemezdi böyle bir görevi.
+Dialogue: 0,0:09:57.42,0:09:58.45,Default,Hinako,0,0,0,,Doğru.
+Dialogue: 0,0:09:58.45,0:10:02.11,Default,Hinako,0,0,0,,Şu an için, -1 seviyede tek oyuncu o.
+Dialogue: 0,0:10:02.42,0:10:04.25,Default,Hinako,0,0,0,,Ama bu ne demek oluyor?
+Dialogue: 0,0:10:04.25,0:10:05.99,Default,Sakaeda,0,0,0,,Anlamıyor musun?
+Dialogue: 0,0:10:05.99,0:10:08.26,Default,Sakaeda,0,0,0,,Ve 1. seviyeye geri dönmek için \Nikinci kez seviye atlar, o zaman
+Dialogue: 0,0:10:08.26,0:10:15.47,Default,Sakaeda,0,0,0,,aynı seviyedeki diğer kullanıcılardan \Ndaha yüksek istatistik puanlarına sahip olacak.
+Dialogue: 0,0:10:17.43,0:10:22.16,Default,Sakaeda,0,0,0,,Buna rağmen, tüm bunların tesadüf \Nolduğunu varsayabilir miyiz?
+Dialogue: 0,0:10:31.04,0:10:34.82,Default,Takumi,0,0,0,,Dünyanın en iyi oyunuymuş, hadi canım.
+Dialogue: 0,0:10:35.14,0:10:38.02,Default,Takumi,0,0,0,,Tüm emeğim boşa gitti!
+Dialogue: 0,0:10:38.02,0:10:42.08,Default,Takumi,0,0,0,,Hâlâ bu kapsülün kirasını \Nödemem gerekiyor bir de!
+Dialogue: 0,0:10:43.26,0:10:45.58,Default,Seira,0,0,0,,Abi, uyandın mı?
+Dialogue: 0,0:10:47.54,0:10:50.03,Default,Seira,0,0,0,,Yine mi oyun oynuyorsun?
+Dialogue: 0,0:10:51.98,0:10:54.85,Default,Takumi,0,0,0,,Öyle korkutma beni Seira.
+Dialogue: 0,0:10:54.85,0:10:57.05,Default,Seira,0,0,0,,Hey, şurayı bir kere olsun \Ntoplasan mı artık be?
+Dialogue: 0,0:10:58.86,0:11:01.33,Default,Seira,0,0,0,,Peki en son ne zaman \N duş aldın sen?
+Dialogue: 0,0:11:01.33,0:11:04.10,Default,Takumi,0,0,0,,Seira, dırdır etme.
+Dialogue: 0,0:11:06.57,0:11:09.06,Default,Seira,0,0,0,,Annemler babamlar merak ediyor.
+Dialogue: 0,0:11:09.88,0:11:13.71,Default,Mom,0,0,0,,Takumi, yeter artık!
+Dialogue: 0,0:11:13.71,0:11:16.29,Default,Mom,0,0,0,,Her gece ayaktasın! Bu kadar \N boş vaktin varsa,
+Dialogue: 0,0:11:16.29,0:11:17.48,Default,Mom,0,0,0,,dükkana yardım etsene!
+Dialogue: 0,0:11:17.48,0:11:20.62,Default,Takumi,0,0,0,,Ş-Şey, bizim manav o kadar \N işlek değil ki yardıma ihtiyaç duysun!
+Dialogue: 0,0:11:20.83,0:11:21.91,Default,Mom,0,0,0,,Bahane yok!
+Dialogue: 0,0:11:21.91,0:11:24.58,Default,Dad,0,0,0,,Yine de bir şeye \N sıkı sıkıya sarılması iyi...
+Dialogue: 0,0:11:24.58,0:11:25.66,Default,Mom,0,0,0,,Şımartma çocuğu!
+Dialogue: 0,0:11:27.56,0:11:30.25,Default,Seira,0,0,0,,Y-Yeter bence...
+Dialogue: 0,0:11:30.25,0:11:32.12,Default,Mom,0,0,0,,Of.
+Dialogue: 0,0:11:32.82,0:11:34.72,Default,Mom,0,0,0,,Yemek hazır.
+Dialogue: 0,0:11:34.72,0:11:36.76,Default,Mom,0,0,0,,Hadi biz işe.
+Dialogue: 0,0:11:36.76,0:11:40.15,Default,Mom,0,0,0,,Gündüz işine geç kalma sakın!
+Dialogue: 0,0:11:41.74,0:11:43.93,italics,Announcer,0,0,0,,Bugün {\Ni0}Satisfy Every{\Ni1}'da...
+Dialogue: 0,0:11:43.93,0:11:47.14,italicstop,Announcer2,0,0,0,,Günaydın. Bugünkü {\Ni0}Satisfy \NTimes{\Ni1} başlıyor.
+Dialogue: 0,0:11:44.97,0:11:49.34,Default,Seira,0,0,0,,Vay be. Bu oyun bayağı popülermiş.
+Dialogue: 0,0:11:49.34,0:11:51.65,Default,Seira,0,0,0,,Sırf bu oyuna özel bir sürü \N kanal varmış.
+Dialogue: 0,0:11:49.34,0:11:54.22,italicstop,Announcer3,0,0,0,,{\Ni0}Satisfy News{\Ni1}! Bugün herkes \N bu kullanıcıyı konuşuyor!
+Dialogue: 0,0:11:51.65,0:11:54.51,Default,Takumi,0,0,0,,Gördün mü? Bundan deli para \N kazanılıyor işte.
+Dialogue: 0,0:11:55.26,0:11:58.32,italicstop,Announcer3,0,0,0,,Oyunun 5 numaralı oyuncusu...
+Dialogue: 0,0:11:56.36,0:11:58.32,Default,Seira,0,0,0,,Çok güzel ya...
+Dialogue: 0,0:11:58.32,0:12:00.49,italicstop,Announcer3,0,0,0,,ve 1 numaralı kara büyücü!
+Dialogue: 0,0:12:00.49,0:12:02.15,Default,Takumi,0,0,0,,Kan Cadısı Yura o.
+Dialogue: 0,0:12:02.15,0:12:02.80,italics,Announcer3,0,0,0,,Yura!
+Dialogue: 0,0:12:02.80,0:12:05.09,Default,Seira,0,0,0,,Yura mı? O çok popüler \N olan model mi?
+Dialogue: 0,0:12:05.09,0:12:07.97,Default,Takumi,0,0,0,,Aynen. O, çok ünlü bir kullanıcı
+Dialogue: 0,0:12:05.70,0:12:08.42,italicstop,Announcer3,0,0,0,,Güzelliği sadece oyunla sınırlı değil.
+Dialogue: 0,0:12:07.97,0:12:12.63,Default,Takumi,0,0,0,,oyundaki hareketleri yüzünden \N gerçek dünyada ünlenmiş.
+Dialogue: 0,0:12:08.42,0:12:09.39,italicstop,Announcer3,0,0,0,,Gerçek dünyada da,
+Dialogue: 0,0:12:09.39,0:12:13.34,italicstop,Announcer3,0,0,0,,TV şovlarında ve podyumlarda \N sürekli göz önünde!
+Dialogue: 0,0:12:13.34,0:12:16.33,Default,Seira,0,0,0,,Seninkinden bambaşka bir \N dünyada yaşıyor resmen, di mi?
+Dialogue: 0,0:12:16.33,0:12:17.90,Default,Takumi,0,0,0,,Öyle deme!
+Dialogue: 0,0:12:19.68,0:12:21.13,Default,Staff,0,0,0,,Nagamine-san!
+Dialogue: 0,0:12:20.30,0:12:23.85,sign_generic,Sign,0,0,0,,{\fad(481,0)\an3\bord1\fnArial Black\c&H3D3C2D&\3c&H929086&\frz12\frx12\fry326\pos(273.334,165.333)}Güvenlik Garantili
+Dialogue: 0,0:12:20.30,0:12:23.85,sign_generic,Sign,0,0,0,,{\fad(481,0)\an3\bord0\fnArial Black\c&HD8CDC4&\3c&H929086&\frx12\fry326\frz12.65\pos(539.335,69.999)}İnsan Kaynakları ve İşe Alım
+Dialogue: 0,0:12:20.30,0:12:23.85,sign_generic,Sign,0,0,0,,{\fad(481,0)\an3\bord1\fnArial Black\c&HD8CDC4&\3c&H687B53&\frx8\fry338\pos(549.335,123.999)\frz12.17}Matsuhira Görevlendirme Şirketi
+Dialogue: 0,0:12:21.92,0:12:23.85,Default,Staff,0,0,0,,Nagamine Takumi-san!
+Dialogue: 0,0:12:23.85,0:12:25.41,Default,Takumi,0,0,0,,E-Efendim?
+Dialogue: 0,0:12:25.41,0:12:26.81,Default,Staff,0,0,0,,Çabuk buraya gel.
+Dialogue: 0,0:12:27.07,0:12:28.63,Default,Staff,0,0,0,,İyi çalışmalar.
+Dialogue: 0,0:12:30.37,0:12:33.98,Default,Takumi,0,0,0,,Bütün gece oyun oynadıktan \N sonra hamallık çok zor oluyor.
+Dialogue: 0,0:12:33.98,0:12:37.44,Default,Men,0,0,0,,O çocuk oyun bağımlısıymış resmen.
+Dialogue: 0,0:12:37.44,0:12:40.21,Default,Men,0,0,0,,Ne? O zaman boş bir tip.
+Dialogue: 0,0:12:40.21,0:12:43.46,Default,Men,0,0,0,,Öyle tipler, ne iş versen \N eline yüzüne bulaştırır.
+Dialogue: 0,0:12:46.78,0:12:51.64,Default,Takumi,0,0,0,,Tamam. Bu, öğrenim kredimi \N ve bu aylık oyun abonelik ücretimi karşılar.
+Dialogue: 0,0:12:51.64,0:12:54.59,Default,Takumi,0,0,0,,Harcadığım fazladan paraya \N gelince... gelecek ay...
+Dialogue: 0,0:12:55.07,0:12:58.74,Default,Takumi,0,0,0,,Ne yapıyorum ben ya?
+Dialogue: 0,0:13:00.86,0:13:04.60,italics,Takumi,0,0,0,,Ne yaptıysam da, hiçbir \N şey yolunda gitmedi.
+Dialogue: 0,0:13:05.29,0:13:07.19,italics,Takumi,0,0,0,,Okuldayken hep ezildim ben.
+Dialogue: 0,0:13:08.04,0:13:10.02,italics,Takumi,0,0,0,,İlk hoşlandığım kişi de \Nbana hiç yüz vermedi.
+Dialogue: 0,0:13:11.25,0:13:15.45,italics,Takumi,0,0,0,,O yüzden düşündüm ki oyunda \Nçok çalışıp zengin olursam,
+Dialogue: 0,0:13:15.45,0:13:18.58,italics,Takumi,0,0,0,,Hepsine biraz da olsa \Nyanıldıklarını gösterebilirim.
+Dialogue: 0,0:13:19.97,0:13:20.97,italics,Takumi,0,0,0,,Ama şimdi...
+Dialogue: 0,0:13:21.69,0:13:23.99,italics,Takumi,0,0,0,,Tek yaptığım ailemi \Ndertlendirmek.
+Dialogue: 0,0:13:25.72,0:13:30.66,Default,Takumi,0,0,0,,Belki oyunu bırakıp başka \Nbir iş bulmalıyım kendime.
+Dialogue: 0,0:13:35.69,0:13:40.13,Default,Takumi,0,0,0,,Ama efsanevi bir sınıfa \Ngeçmeyi başardım.
+Dialogue: 0,0:13:40.70,0:13:44.40,Default,Takumi,0,0,0,,Belki biraz daha dayanırım!
+Dialogue: 0,0:13:49.76,0:13:50.93,italics,Voice,0,0,0,,{\i0}Satisfy{\i1}!
+Dialogue: 0,0:13:51.60,0:13:52.50,italics,Voice,0,0,0,,Hazır mı?
+Dialogue: 0,0:13:52.50,0:13:53.51,Default,Takumi,0,0,0,,Evet.
+Dialogue: 0,0:13:55.40,0:13:56.84,italics,Voice,0,0,0,,Beklemede.
+Dialogue: 0,0:13:57.36,0:14:00.40,italics,Voice,0,0,0,,Üç, iki, bir...
+Dialogue: 0,0:14:00.40,0:14:01.27,italics,Voice,0,0,0,,Başla!
+Dialogue: 0,0:14:01.27,0:14:02.43,italics,Voice,0,0,0,,Giriş!
+Dialogue: 0,0:14:03.17,0:14:05.31,italics,Voice,0,0,0,,{\i0}Satisfy{\i1}'ye erişiliyor.
+Dialogue: 0,0:14:12.85,0:14:14.06,Default,Takumi,0,0,0,,Neredeyim ben?
+Dialogue: 0,0:14:14.06,0:14:15.34,italics,AI,0,0,0,,Sistem kılavuzu.
+Dialogue: 0,0:14:15.34,0:14:17.00,italics,AI,0,0,0,,Görevi tamamlayamaman,
+Dialogue: 0,0:14:17.00,0:14:19.95,italics,AI,0,0,0,,Patrian bölgesine artık \Nerişemeyeceğin anlamına geliyor.
+Dialogue: 1,0:14:23.36,0:14:26.68,top,Takumi,0,0,0,,Lanet olsun. Resmen eksi bir seviyeyim.
+Dialogue: 1,0:14:26.11,0:14:30.30,screen_text,Sign,0,0,0,,{\fs9\bord0.5\fad(88,0)\c&H4D54D5&\fscx265\fscy387\pos(932.667,782.666)}*Envanter ağırlığınız %200'ü aştı,\Nve hareket hızınız %100 azaldı.\N\N*Beceri kullanımınıza kısıtlamalar getirildi.\N\N*"Zayıflamış" durum etkisi alma şansınız\Nönemli ölçüde arttı.
+Dialogue: 0,0:14:26.11,0:14:30.30,screen_text,Sign,0,0,0,,{\fad(93,0)\blur2\an8\bord0\p1\alpha&H10&\c&H8A766B&\pos(934.666,782.332)\fscx287\fscy595}m 0 0 l 190 0 190 40 0 40
+Dialogue: 0,0:14:27.21,0:14:30.39,top,Takumi,0,0,0,,Bir de bu istatistikler çöp!
+Dialogue: 1,0:14:30.30,0:14:30.34,screen_text,Sign,0,0,0,,{\fs9\bord0.5\c&H4D54D5&\pos(310.667,266.666)\clip(m 186 250 l 264 249 264 296 407 297 408 354 168 352)}*Envanter ağırlığınız %200'ü aştı,\Nve hareket hızınız %100 azaldı.\N\N*Beceri kullanımınıza kısıtlamalar getirildi.\N\N*"Zayıflamış" durum etkisi alma şansınız\Nönemli ölçüde arttı.
+Dialogue: 0,0:14:30.30,0:14:30.34,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\alpha&H10&\c&H8A766B&\clip(m 186 250 l 264 249 264 296 407 297 408 354 168 352)\pos(1336.666,218.332)}m 0 0 l 190 0 190 40 0 40
+Dialogue: 1,0:14:31.98,0:14:34.81,screen_text,Sign,0,0,0,,{\fs24\an4\pos(110.666,62.668)\frx24\fry2\frz9.46\3c&H635E5D&}Pagma'nın Varisi
+Dialogue: 1,0:14:31.98,0:14:34.81,screen_text,Sign,0,0,0,,{\fs24\an4\frx24\fry2\3c&H635E5D&\frz11.09\pos(641.333,412.002)\fscx242\fscy163}Sınıf Notları
+Dialogue: 1,0:14:31.98,0:14:34.81,screen_text,Sign,0,0,0,,{\fs24\an4\3c&H635E5D&\pos(416,673.335)\fscx184\fscy241\frz12.88\frx4\fry0}*Efsanevi demircinin yeteneklerini miras alır.\N*Eşya üretimi sırasında seçenek eklenme ihtimali arttı.\N*Eşya geliştirme ihtimali arttı.\N*Tüm ekipmanlar kuşanılabilir,\N{\c&H4D54D5&}ancak eşyalar kuşanıldığında cezalar uygulanabilir.
+Dialogue: 0,0:14:31.98,0:14:34.81,screen_text,Sign,0,0,0,,{\blur2\an7\bord0\p1\alpha&H10&\c&H9F8A7D&\fscx313\fscy237\pos(319.999,525.666)\frz12.61\frx4\fry0}m 0 0 l 600 0 550 190 0 190
+Dialogue: 1,0:14:32.24,0:14:34.81,Default,Takumi,0,0,0,,Ama bu isteğe bağlı etkiler \Nbayağı iyi duruyor.
+Dialogue: 0,0:14:35.05,0:14:37.27,Default,Takumi,0,0,0,,Eğer her ekipmanı kuşanabiliyorsam...
+Dialogue: 0,0:14:40.57,0:14:43.08,Default,Takumi,0,0,0,,Satmak için sakladığım 60. seviye eşyalar!
+Dialogue: 0,0:14:43.08,0:14:45.94,italics,AI,0,0,0,,Bu eşyaları kullanmak için \Ngereksinimleri karşılamadığınızdan,
+Dialogue: 0,0:14:45.94,0:14:48.61,italics,AI,0,0,0,,etkilerine bir ceza \Nuygulanacak.
+Dialogue: 0,0:14:48.61,0:14:49.98,Default,Takumi,0,0,0,,Yine de yeter de artar bile!
+Dialogue: 0,0:14:49.98,0:14:52.16,Default,Takumi,0,0,0,,Helal olsun, efsanevi sınıf.
+Dialogue: 0,0:14:52.54,0:14:56.37,Default,Takumi,0,0,0,,Neyse, yakındaki bir köye \Ngiderek başlayabilirim sanırım...
+Dialogue: 0,0:14:58.34,0:14:59.58,Default,Takumi,0,0,0,,Kahretsin!
+Dialogue: 0,0:14:59.58,0:15:03.01,Default,Takumi,0,0,0,,O Yatan Tapınağı!\NTavsiye edilen seviyesi 150!
+Dialogue: 0,0:15:03.01,0:15:04.78,Default,Takumi,0,0,0,,Sizin de, geliştiriciler...
+Dialogue: 0,0:15:10.64,0:15:12.04,Default,Cult,0,0,0,,Doldur onu...
+Dialogue: 0,0:15:12.81,0:15:14.72,Default,Cult,0,0,0,,Doldur onu...
+Dialogue: 0,0:15:15.65,0:15:17.75,Default,Cult,0,0,0,,Doldur onu...
+Dialogue: 0,0:15:15.89,0:15:19.34,top,Cult,0,0,0,,Cehennemde uyuyan ruhlar!
+Dialogue: 0,0:15:19.34,0:15:25.11,top,Cult,0,0,0,,Onu nefretinizle doldurun! \NCehennemin ruhlarını tezahür ettirin!
+Dialogue: 0,0:15:19.36,0:15:22.40,Default,Takumi,0,0,0,,Şunlar... Yatan tarikatçıları mı?
+Dialogue: 0,0:15:23.29,0:15:25.11,Default,Takumi,0,0,0,,Lanetli bir ritüel mi?
+Dialogue: 0,0:15:25.57,0:15:27.91,Default,Takumi,0,0,0,,Beni bulurlarsa, işimi bitirirler.
+Dialogue: 0,0:15:27.91,0:15:31.22,Default,Takumi,0,0,0,,Önce bir kaçış ışınlayıcısı bulup \Nburadan sıvışmam lazım.
+Dialogue: 0,0:15:31.22,0:15:31.87,Default,Doran,0,0,0,,Hey.
+Dialogue: 0,0:15:35.08,0:15:36.96,Default,Cult,0,0,0,,Doldurun...
+Dialogue: 0,0:15:37.68,0:15:38.90,Default,Doran,0,0,0,,Sakin ol.
+Dialogue: 0,0:15:37.93,0:15:40.42,top,Cult,0,0,0,,Doldurun...
+Dialogue: 0,0:15:40.42,0:15:44.38,Default,Doran,0,0,0,,Ben Doran, Kont Steim'in ailesinin \Ngizli korumasıyım.
+Dialogue: 0,0:15:44.85,0:15:46.11,sign_generic,Sign,0,0,0,,{\fnVerdana\blur2\b1\fs24\fad(260,249)\pos(320,55)\c&H00C3E2&\3c&H0074AA&}Doran
+Dialogue: 0,0:15:48.80,0:15:50.21,Default,Takumi,0,0,0,,Irene mi?
+Dialogue: 0,0:15:50.21,0:15:51.01,Default,Doran,0,0,0,,Evet.
+Dialogue: 0,0:15:51.01,0:15:53.06,Default,Doran,0,0,0,,Kont Steim'in kızı.
+Dialogue: 0,0:15:53.06,0:15:56.48,Default,Doran,0,0,0,,Yakınlardaki bir kasabayı \Nziyaret ederken kaçırılmış.
+Dialogue: 0,0:15:56.84,0:16:00.16,Default,Doran,0,0,0,,Akıllı ve nazik biri,\Nherkes de çok sever.
+Dialogue: 0,0:16:00.16,0:16:02.95,Default,Doran,0,0,0,,Herkes bir sonraki yönetici \Nolmasını bekliyor.
+Dialogue: 0,0:16:02.95,0:16:06.21,Default,Doran,0,0,0,,Onu kurtarmama yardım edecek \Nbiri olduğuna sevindim.
+Dialogue: 0,0:16:06.21,0:16:08.41,Default,Takumi,0,0,0,,Yani şey...
+Dialogue: 0,0:16:08.41,0:16:09.64,italics,AI,0,0,0,,Sistem rehberliği.
+Dialogue: 1,0:16:08.41,0:16:12.37,screen_text,Sign,0,0,0,,{\b0\fs9\3c&H4F4A46&\fscx315\fscy372\pos(365.999,52.333)}Görev\N{\b1}Kontun Kızını Kurtar (S)\N\N{\b0}Yatan tarikatçıları, Kont Steim'in tek kızını\Nkaçırıp Yatan Tapınağı'nda onu tanrıları Yatan'a\Nkurban etmek için kanını sunma ritüeli yapıyor.\NDoran onu kurtarmak için fırsat kolluyordu\Nve senden yardım istedi!\N\N\NGörevi Başlama Şartı: Görevin başlamasından\Nbirt saat içinde Irene'i kurtar.\NGörev Ödülü: 3.000 altın. Kontun kızıyla\Nnişanlanma şansı düşük.\N{\c&H2C35FF&}*Kontun kızıyla nişanlanmak sana "itibar"\Nniteliği ve tüm istatistiklere +20 verecek.\NO onunla evlenmek seni baronet yapar\Nve yüksek sosyeteye erişim sağlar.\N{\c&HF0E8E4&}Başarısızlık: Seviye -2
+Dialogue: 0,0:16:08.41,0:16:12.37,screen_text,Sign,0,0,0,,{\an7\bord0\p1\alpha&H20&\c&H987B63&\pos(74,48)\fscx294\fscy767}m 0 0 l 200 0 200 80 0 80
+Dialogue: 0,0:16:09.64,0:16:11.90,italics,AI,0,0,0,,S-rütbeli bir görev verildi.
+Dialogue: 0,0:16:12.77,0:16:16.08,Default,Takumi,0,0,0,,Zaten -1 seviye bir ezikim ben!
+Dialogue: 0,0:16:16.38,0:16:20.10,Default,Doran,0,0,0,,Normalde böyle bir durumda \Nkimse yerinden kıpırdayamaz.
+Dialogue: 0,0:16:20.10,0:16:22.29,Default,Doran,0,0,0,,Bayağı güçlü olmalısın.
+Dialogue: 0,0:16:25.51,0:16:28.22,Default,Doran,0,0,0,,Yardım edeceğin için çok sevindim.
+Dialogue: 0,0:16:28.22,0:16:29.18,Default,Takumi,0,0,0,,Yardım etmiyorum ben.
+Dialogue: 0,0:16:30.86,0:16:31.51,Default,Doran,0,0,0,,Yardım mı edeceksi-
+Dialogue: 0,0:16:31.51,0:16:32.43,Default,Takumi,0,0,0,,Yardım etmiyorum işte!
+Dialogue: 0,0:16:32.43,0:16:34.56,Default,Doran,0,0,0,,Bütün o adamlarla tek başıma mı \Ndövüşeyim yani?!
+Dialogue: 0,0:16:34.56,0:16:35.77,Default,Takumi,0,0,0,,Benim sorunum değil o!
+Dialogue: 0,0:16:35.77,0:16:37.14,Default,Doran,0,0,0,,Ne olur! Yalvarırım!
+Dialogue: 0,0:16:37.14,0:16:39.23,Default,Doran,0,0,0,,Hayatı tehlikede kızın!
+Dialogue: 0,0:16:39.23,0:16:41.65,Default,Takumi,0,0,0,,Yardım etmeyi çok isterim ama imkansız!
+Dialogue: 0,0:16:41.92,0:16:44.03,Default,Takumi,0,0,0,,Seviyem bayağı düşük benim...
+Dialogue: 0,0:16:44.03,0:16:45.48,Default,Takumi,0,0,0,,Bırak beni!
+Dialogue: 0,0:16:54.78,0:16:58.52,Default,Cult,0,0,0,,Ş-Şunlara bak hele! Her şeye gücü yeten \Ntanrı Yatan'a mı karşı geliyorlar?!
+Dialogue: 0,0:16:58.52,0:16:59.21,Default,Cult,0,0,0,,Öldürün onları!
+Dialogue: 0,0:16:59.21,0:17:02.92,italics,AI,0,0,0,,Kontun Kızını Kurtar görevini \Nkabul ettin.
+Dialogue: 0,0:17:02.14,0:17:03.68,top,Takumi,0,0,0,,Ne?!
+Dialogue: 0,0:17:02.92,0:17:05.78,Default,Doran,0,0,0,,Ayını böldün ya şimdi, \Nkaçmana izin vermezler.
+Dialogue: 0,0:17:05.78,0:17:08.00,Default,Doran,0,0,0,,Artık birbirimize kaldık işte!
+Dialogue: 0,0:17:06.33,0:17:07.12,Default,Takumi,0,0,0,,Saçmalık bu!
+Dialogue: 0,0:17:07.12,0:17:09.13,Default,Takumi,0,0,0,,Bu ne saçmalık!
+Dialogue: 0,0:17:09.13,0:17:10.47,Default,Doran,0,0,0,,Hadi!
+Dialogue: 0,0:17:14.89,0:17:16.39,Default,Takumi,0,0,0,,Bir planımız falan var mı peki?!
+Dialogue: 0,0:17:16.39,0:17:18.85,Default,Doran,0,0,0,,Elbette! \NYol açıcaz!
+Dialogue: 0,0:17:26.32,0:17:27.60,italics,Takumi,0,0,0,,Vay be!
+Dialogue: 0,0:17:27.60,0:17:30.00,italics,Takumi,0,0,0,,Bu NPC bayağı güçlü!
+Dialogue: 0,0:17:30.56,0:17:34.21,italics,Takumi,0,0,0,,Belki de o kadar güçlü ki, \Nşu görevi hallederiz...
+Dialogue: 0,0:17:34.21,0:17:36.66,italics,Takumi,0,0,0,,Ben ne... Ne yapabilirim ki?
+Dialogue: 0,0:17:37.84,0:17:38.54,italics,Takumi,0,0,0,,Ona destek olayım!
+Dialogue: 0,0:17:39.34,0:17:40.80,Default,Takumi,0,0,0,,Bol şans, Doran!
+Dialogue: 0,0:17:40.80,0:17:43.85,Default,Takumi,0,0,0,,Işığımsın benim! Umudumsun!
+Dialogue: 0,0:17:45.04,0:17:45.79,Default,Doran,0,0,0,,Anladım ben!
+Dialogue: 0,0:17:46.01,0:17:48.05,Default,Doran,0,0,0,,Tek tek savaşmamı istemiyorsun.
+Dialogue: 0,0:17:48.05,0:17:51.16,Default,Doran,0,0,0,,Beni bekletip hepsini \Ntek seferde öldürtmek istedin!
+Dialogue: 0,0:17:51.16,0:17:51.76,Default,Takumi,0,0,0,,Yok, aslında...
+Dialogue: 0,0:17:53.10,0:17:54.59,Default,Doran,0,0,0,,Bu işi bitiricem!
+Dialogue: 0,0:17:55.43,0:17:57.14,Default,Yura,0,0,0,,Diamond Shield.
+Dialogue: 0,0:18:02.00,0:18:04.51,Default,Yura,0,0,0,,Seni burada görmek ne ilginç.
+Dialogue: 0,0:18:05.11,0:18:08.57,Default,Yura,0,0,0,,Benim için bu görevi \Nbaşlatan sen misin?
+Dialogue: 0,0:18:08.57,0:18:10.02,Default,Yura,0,0,0,,Teşekkür etmek isterdim sana,
+Dialogue: 0,0:18:10.02,0:18:13.57,Default,Yura,0,0,0,,ama seni yenmek benim \Ngörevimin şartı.
+Dialogue: 0,0:18:14.06,0:18:15.47,Default,Yura,0,0,0,,Seninle dövüşeceğim...
+Dialogue: 0,0:18:15.78,0:18:18.21,Default,Yura,0,0,0,,Ben, Yura, Kan Cadısı.
+Dialogue: 0,0:18:19.38,0:18:21.87,Default,Yura,0,0,0,,Seviyem 230 falan...
+Dialogue: 0,0:18:22.44,0:18:24.54,Default,Yura,0,0,0,,Hazır mısın bakalım?
+Dialogue: 0,0:18:24.54,0:18:25.78,Default,Takumi,0,0,0,,D-Doran!
+Dialogue: 0,0:18:24.88,0:18:26.81,Default,Doran,0,0,0,,Korkacak zamanımız yok!
+Dialogue: 0,0:18:26.81,0:18:30.73,Default,Doran,0,0,0,,İleri atılan kazanır!
+Dialogue: 0,0:18:34.13,0:18:35.59,Default,Yura,0,0,0,,Hızlıymışsın.
+Dialogue: 0,0:18:35.59,0:18:36.97,Default,Yura,0,0,0,,Ben de seni biraz yavaşlatayım.
+Dialogue: 0,0:18:41.22,0:18:43.24,Default,Doran,0,0,0,,O numaraların bana sökmez!
+Dialogue: 0,0:18:43.60,0:18:44.83,Default,Yura,0,0,0,,Öyle mi?
+Dialogue: 0,0:18:45.21,0:18:46.19,Default,Yura,0,0,0,,O zaman...
+Dialogue: 0,0:18:50.23,0:18:54.03,Default,Yura,0,0,0,,Eğer geri çekilmeyeceksen, \Nbu iş bitti demektir.
+Dialogue: 0,0:18:57.12,0:18:58.07,Default,Takumi,0,0,0,,Doran!
+Dialogue: 0,0:18:58.58,0:19:01.68,italics,Takumi,0,0,0,,Doran bu kadar güçlü, \Nyine de yenemedi mi?
+Dialogue: 0,0:19:01.68,0:19:05.58,italics,Takumi,0,0,0,,Kan Cadısı'nın gücü bu mu yani?
+Dialogue: 0,0:19:05.58,0:19:09.11,Default,Doran,0,0,0,,Kibirli genç kara büyücü...
+Dialogue: 0,0:19:09.11,0:19:10.61,Default,Doran,0,0,0,,Sana o gücü göstericem
+Dialogue: 0,0:19:10.61,0:19:13.55,Default,Doran,0,0,0,,kontun ailesini yüzlerce \Nyıldır savunan gücü!
+Dialogue: 0,0:19:17.54,0:19:19.07,Default,Takumi,0,0,0,,Ne oldu şimdi?
+Dialogue: 0,0:19:19.47,0:19:21.28,Default,Doran,0,0,0,,Bu yüzük işte.
+Dialogue: 0,0:19:21.28,0:19:24.39,Default,Doran,0,0,0,,Mükemmel olmasa da lanetleri \Nengeller, beni iyileştirir.
+Dialogue: 0,0:19:24.39,0:19:25.64,Default,Takumi,0,0,0,,Bana ver onu.
+Dialogue: 0,0:19:25.64,0:19:28.86,Default,Doran,0,0,0,,B-Bunu nasıl istersin sen?
+Dialogue: 0,0:19:31.32,0:19:33.68,Default,Doran,0,0,0,,Ciddi ciddi savaşmaya \Nhazırlar gibi duruyorlar.
+Dialogue: 0,0:19:34.28,0:19:36.49,Default,Doran,0,0,0,,İsimsiz maceracı...
+Dialogue: 0,0:19:36.71,0:19:39.03,Default,Doran,0,0,0,,Düşmanı ben oyalayacağım.
+Dialogue: 0,0:19:39.03,0:19:43.20,Default,Doran,0,0,0,,Hanımımı kurtar... \NIrene-sama'yı!
+Dialogue: 0,0:19:43.20,0:19:45.89,Default,Takumi,0,0,0,,Hayır, onlarla tek başına \Nsavaşamazsın ki.
+Dialogue: 0,0:19:45.89,0:19:46.99,Default,Doran,0,0,0,,Bir gün...
+Dialogue: 0,0:19:47.47,0:19:49.50,Default,Doran,0,0,0,,anlarsın.
+Dialogue: 0,0:19:50.36,0:19:51.46,Default,Doran,0,0,0,,Hadi bakalım!
+Dialogue: 0,0:19:52.28,0:19:53.86,Default,Takumi,0,0,0,,Of, kahretsin!
+Dialogue: 0,0:20:02.79,0:20:04.67,Default,Cult,0,0,0,,Yatan'ın çocukları...
+Dialogue: 0,0:20:04.67,0:20:06.27,Default,Cult,0,0,0,,Sapkına ölüm!
+Dialogue: 0,0:20:06.27,0:20:08.23,Default,Takumi,0,0,0,,Bunlar nasıl bu kadar hızlı canlanıyor ya?!
+Dialogue: 0,0:20:08.23,0:20:10.79,Default,Takumi,0,0,0,,Doran, ben yapamıyorum!
+Dialogue: 0,0:20:10.79,0:20:11.40,Default,Doran,0,0,0,,Eyvah!
+Dialogue: 0,0:20:12.36,0:20:14.89,Default,Yura,0,0,0,,Savaşırken odaklanmak lazım.
+Dialogue: 0,0:20:14.89,0:20:16.58,Default,Yura,0,0,0,,Bu sefer, sen ölüyorsun.
+Dialogue: 0,0:20:16.80,0:20:18.32,Default,Yura,0,0,0,,Dark Storm!
+Dialogue: 0,0:20:21.28,0:20:22.78,italics,Doran,0,0,0,,B-Benim işim bitti!
+Dialogue: 0,0:20:52.09,0:20:54.32,Default,Yura,0,0,0,,Hâlâ ayakta mı?
+Dialogue: 0,0:20:55.18,0:20:57.17,Default,Takumi,0,0,0,,Canım... bir mi?
+Dialogue: 0,0:20:57.67,0:20:58.94,Default,Takumi,0,0,0,,Bu...
+Dialogue: 0,0:20:59.78,0:21:01.95,Default,Takumi,0,0,0,,Unvanımın verdiği ölümsüzlük yeteneği miydi bu?
+Dialogue: 0,0:21:02.28,0:21:04.91,Default,Takumi,0,0,0,,B-Bayağı yakındı!
+Dialogue: 0,0:21:05.51,0:21:08.66,Default,Yura,0,0,0,,Sen kimsin?
+Dialogue: 0,0:21:09.98,0:21:11.37,Default,Takumi,0,0,0,,Benim adım...
+Dialogue: 0,0:21:13.45,0:21:14.60,Default,Doran,0,0,0,,Ben demiştim...
+Dialogue: 0,0:21:14.60,0:21:17.34,Default,Doran,0,0,0,,İleri atılan kazanır!
+Dialogue: 0,0:21:17.87,0:21:20.01,Default,Yura,0,0,0,,Guardian's Shield!
+Dialogue: 0,0:21:20.30,0:21:22.47,Default,Doran,0,0,0,,Hâlâ bu kadar gücü mü var?!
+Dialogue: 0,0:21:27.62,0:21:28.96,Default,Yura,0,0,0,,Çıkış mı yaptı?
+Dialogue: 0,0:21:36.32,0:21:37.32,screen_text,Sign,0,0,0,,{\pos(318.667,152.667)}Öldün
+Dialogue: 0,0:21:36.88,0:21:40.60,italics,AI,0,0,0,,S-rank bir görevin başarısızlığı yüzünden \Nseviyen 2 düştü.
+Dialogue: 0,0:21:42.32,0:21:45.15,italics,AI,0,0,0,,Şu anki oyuncu seviyen -3.
+Dialogue: 0,0:21:45.15,0:21:47.86,italics,AI,0,0,0,,Yirmi dört saat içinde iki kez \Nöldüğün için,
+Dialogue: 0,0:21:47.86,0:21:50.25,italics,AI,0,0,0,,on iki saat boyunca oyuna \Ngiremeyeceksin.
+Dialogue: 0,0:21:50.25,0:21:53.50,Default,Takumi,0,0,0,,O pislik Doran, kendi takımımdayken \Nbeni öldürdü!
+Dialogue: 0,0:21:53.50,0:21:55.96,Default,Takumi,0,0,0,,Ama aslında hepsi Yura'nın suçu!
+Dialogue: 0,0:21:56.42,0:21:59.38,Default,Takumi,0,0,0,,Beni öyle basit bir ezik sanma!
+Dialogue: 0,0:21:59.56,0:22:05.35,sign_generic,Sign,0,0,0,,{\fs13.5\fad(91,0)\bord0\frx350\fry8\c&H22120C&\pos(506,304.667)\frz358}Nagamine Manavı
+Dialogue: 0,0:22:00.15,0:22:01.28,Default,Mom,0,0,0,,Takumi!
+Dialogue: 0,0:22:01.28,0:22:02.61,Default,Mom,0,0,0,,Saatin kaç olduğundan haberin var mı?!
+Dialogue: 0,0:22:01.70,0:22:03.88,Default,Seira,0,0,0,,Abi!
+Dialogue: 0,0:22:02.61,0:22:05.35,Default,Dad,0,0,0,,Bırakın da uyuyayım...
+Dialogue: 0,0:22:05.35,0:22:07.31,sign_generic,Sign,0,0,0,,{\bord0\fs8\c&H606566&\frx348\fry10\pos(416.667,202.667)\frz359.2}Nagamine Manavı
+Dialogue: 0,0:22:07.61,0:22:08.90,italics,Announcer3,0,0,0,,{\i0}Satisfy Haberleri{\i1}!
+Dialogue: 0,0:22:08.90,0:22:12.27,italics,Announcer3,0,0,0,,Bugün, oyun içi muhabirimiz Sumita'dan \Nbize bir rapor var!
+Dialogue: 0,0:22:12.27,0:22:16.69,sign_generic,Sign,0,0,0,,{\fnArial Black\c&H151515&\3c&HC0C0C0&\pos(320,262.333)}Yatan Tapınağı'nın Hayaleti Ortaya Çıktı!
+Dialogue: 0,0:22:12.60,0:22:13.73,italicstop,Sumita,0,0,0,,Şuna bakın!
+Dialogue: 0,0:22:13.73,0:22:17.29,italicstop,Sumita,0,0,0,,Dün gece, Eternal Kingdom'ın kuzeyindeki \NYatan Tapınağı'nda,
+Dialogue: 0,0:22:17.29,0:22:19.60,italicstop,Sumita,0,0,0,,büyük çaplı bir çöküş yaşandı!
+Dialogue: 0,0:22:18.36,0:22:26.37,sign_generic,Sign,0,0,0,,{\fnArial Black\c&H1C1C1C&\3c&HEDEDED&\pos(320,271.667)}Yatan Tapınağı'nın Hayaleti Ortaya Çıktı!
+Dialogue: 0,0:22:19.60,0:22:21.51,italicstop,Sumita,0,0,0,,Bu, kimliği belirsiz bir kullanıcı
+Dialogue: 0,0:22:21.51,0:22:23.82,italicstop,Sumita,0,0,0,,bir saldırıyı engelledi.
+Dialogue: 0,0:22:22.87,0:22:24.46,top,Takumi,0,0,0,,Bu da...
+Dialogue: 0,0:22:23.82,0:22:27.75,italicstop,Sumita,0,0,0,,O ünlü Kan Cadısı, Yura!
+Dialogue: 0,0:22:27.75,0:22:29.97,Default,Takumi,0,0,0,,Ben ünlü müyüm yani!
+Dialogue: 0,0:22:27.75,0:22:30.18,italicstop,Sumita,0,0,0,,Bu gizemli kullanıcının \Nnerelerde olduğu bilinmiyor,
+Dialogue: 0,0:22:30.18,0:22:32.60,italicstop,Sumita,0,0,0,,ve izleyicilerimizden \Nbilebildiklerini paylaşmalarını istiyoruz!
+Dialogue: 0,0:22:32.60,0:22:37.15,italicstop,Sumita,0,0,0,,Hadi tek tanığımızın \Nsöyleyeceklerine bir kulak verelim!
+Dialogue: 0,0:22:35.15,0:22:37.86,italics,Desk,0,0,0,,Alo, {\i0}Satisfy{\i1} \N{\i0}Haber{\i1} santrali.
+Dialogue: 0,0:22:37.54,0:22:40.71,italicstop,Witness,0,0,0,,Canavarlar beni kovalıyordu \Nben de o civarlardaydım,
+Dialogue: 0,0:22:37.86,0:22:39.09,Default,Takumi,0,0,0,,Hımm, alo?
+Dialogue: 0,0:22:39.09,0:22:40.71,Default,Takumi,0,0,0,,Haberi görünce aradım ben!
+Dialogue: 0,0:22:40.71,0:22:42.99,Default,Takumi,0,0,0,,Yatan Tapınağı'ndaki o gizemli kullanıcı benim!
+Dialogue: 0,0:22:40.71,0:22:43.59,italicstop,Witness,0,0,0,,ve birden, hani, devasa bir patlama oldu.
+Dialogue: 0,0:22:42.99,0:22:45.27,italics,Desk,0,0,0,,Oyuncu ID'niz neydi acaba?
+Dialogue: 0,0:22:43.59,0:22:46.83,italicstop,Witness,0,0,0,,Yura-san'ı bir erkek oyuncuyla \Nkarşı karşıya gördüm ben.
+Dialogue: 0,0:22:45.27,0:22:46.37,Default,Takumi,0,0,0,,"Grid"!
+Dialogue: 0,0:22:46.37,0:22:47.52,italics,Desk,0,0,0,,Seviyeniz?
+Dialogue: 0,0:22:46.83,0:22:49.16,italicstop,Witness,0,0,0,,Ay, acayip tatlıydı kendisi!
+Dialogue: 0,0:22:47.52,0:22:49.16,Default,Takumi,0,0,0,,Eksi 3!
+Dialogue: 0,0:22:49.16,0:22:51.84,italicstop,Sumita,0,0,0,,Peki erkek kullanıcının yüzünü gördünüz mü?
+Dialogue: 0,0:22:51.22,0:22:53.99,Default,Takumi,0,0,0,,Lanet olsun sana, Yura!
+Dialogue: 0,0:22:51.84,0:22:53.99,italicstop,Witness,0,0,0,,Yok, Yura-san'a bakmaktan \Nhiç fırsat bulamadım!
+Dialogue: 0,0:22:53.99,0:22:55.47,italicstop,Sumita,0,0,0,,{\i0}Satisfy{\i1} değil!
+Dialogue: 0,0:22:55.47,0:22:58.02,italicstop,Sumita,0,0,0,,B-Bu kadar olay yerinden!
+Dialogue: 0,0:22:59.70,0:23:02.28,Default,Takumi,0,0,0,,Doran öldü, öyle mi?
+Dialogue: 0,0:23:02.71,0:23:05.36,Default,Takumi,0,0,0,,NPC'ydi, ama iyi biriydi be.
+Dialogue: 0,0:23:05.78,0:23:08.23,Default,Takumi,0,0,0,,Bir de o ultra-nadir yüzüğü vardı hani...
+Dialogue: 0,0:23:08.23,0:23:11.16,Default,Takumi,0,0,0,,Öyle müthiş bir eşyam \Nolsaydı belki...
+Dialogue: 0,0:23:11.77,0:23:15.63,Default,Takumi,0,0,0,,Ama kolay kolay elde edemezdim ki.
+Dialogue: 0,0:23:15.96,0:23:17.33,Default,Takumi,0,0,0,,Hayır, öyle değil.
+Dialogue: 0,0:23:18.86,0:23:22.75,Default,Takumi,0,0,0,,Aynen! Ben efsanevi demirciyim!
+Dialogue: 0,0:23:25.77,0:23:27.89,Default,Takumi,0,0,0,,İstersem, kendim yaparım ben onu!
+Dialogue: 0,0:23:28.14,0:23:30.50,Default,Takumi,0,0,0,,Ve sonra güçlenirim,
+Dialogue: 0,0:23:30.50,0:23:31.85,Default,Takumi,0,0,0,,ve para kazanırım!
+Dialogue: 0,0:23:32.51,0:23:35.46,Default,Takumi,0,0,0,,Bu ezik hayatıma veda ederim ben de!
+Dialogue: 0,0:23:36.27,0:23:40.25,sign_generic,Sign,0,0,0,,{\bord1\an1\fs21\b1\fnGeorgia\pos(363.333,282)\c&H0367FF&\3c&H2D4AA5&\fscx387\fscy398}O{\c&H0638FC&}v{\c&H1537DD&}e{\c&H0C39FF&\3c&H212893&}r{\c&H1518D3&}g{\c&H1116AD&\3c&H15187C&}e{\c&H0E109B&\3c&H0E1254&}a{\c&H080B49&}r{\c&H211F30&\3c&H02031B&}e{\c&H000000&\3c&H000000&}d
