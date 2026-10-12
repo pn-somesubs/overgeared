@@ -1,0 +1,439 @@
+[Script Info]
+Title: pn-SomeSubs - Overgeared
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,77,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.5,4,2,30,30,54,1
+Style: sign_generic,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,8,30,30,54,1
+Style: screen_text,Verdana,45,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,8,30,30,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,,0,0,0,,{\fs50\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever\pos(10.4,-16.4)}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Künefe-Kun\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} AJAN\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} AJAN\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:01.17,0:00:02.30,Default,MC,0,0,0,,{\i1}Satisfy{\i0},
+Dialogue: 0,0:00:02.78,0:00:06.25,Default,MC,0,0,0,,genellikle “başka bir Dünya” olarak anılan \Nbir sanal gerçeklik oyunu.
+Dialogue: 0,0:00:07.70,0:00:11.14,Default,MC,0,0,0,,Bugün, konuklarımızla her mesleği özel,
+Dialogue: 0,0:00:11.14,0:00:15.70,Default,MC,0,0,0,,kılan unsurlar ve sınıfların\Nönemi hakkında konuşacağız.
+Dialogue: 0,0:00:16.07,0:00:22.67,Default,MC,0,0,0,,Söylenene göre, sınıfınızın {\i1}Satisfy{\i0}’daki\Ngücünüz üzerinde büyük bir etkisi var.
+Dialogue: 0,0:00:22.67,0:00:26.00,Default,MC,0,0,0,,Ne düşünüyorsunuz, Yura-san?
+Dialogue: 0,0:00:26.25,0:00:27.57,Default,Yura,0,0,0,,Bu doğru.
+Dialogue: 0,0:00:27.93,0:00:31.73,Default,Yura,0,0,0,,{\an8}Bazı mesleklerin\Nkesinlikle avantajları var.
+Dialogue: 0,0:00:29.48,0:00:35.01,screen_text,sign,0,0,0,,{\b1\bord1\c&HF0F0F0&\3c&H1B0F0E&\pos(368.7,752.7)}Yura
+Dialogue: 1,0:00:29.48,0:00:35.01,screen_text,sign,0,0,0,,{\an4\bord0\b1\fs30\c&HD4CABE&\pos(150.9,900.3)}Kara Büyücü
+Dialogue: 1,0:00:29.48,0:00:35.01,screen_text,sign,0,0,0,,{\an4\bord0\b1\fs27\c&HD4CABE&\pos(149.3,949.3)}Toplam Rütbe: 5
+Dialogue: 0,0:00:29.48,0:00:35.01,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H0&\c&H20160B&\pos(144,872)}m 0 0 l 240 0 240 24 0 24
+Dialogue: 0,0:00:29.48,0:00:35.01,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H0&\c&H20160B&\pos(144,926)}m 0 0 l 285 0 285 24 0 24
+Dialogue: 0,0:00:31.73,0:00:35.01,Default,Yura,0,0,0,,{\an8}Ama bir meslekte ustalaşmak da önemlidir.
+Dialogue: 0,0:00:35.93,0:00:41.12,Default,Roy,0,0,0,,{\an8}Öyle diyorsun ama aslında özel sınıf\Nmesleklerine sahip insanları kıskanıyorsun.
+Dialogue: 0,0:00:38.28,0:00:43.14,screen_text,sign,0,0,0,,{\b1\bord1\c&HF0F0F0&\3c&H1B0F0E&\pos(360.7,752.7)}Roy
+Dialogue: 1,0:00:38.28,0:00:43.14,screen_text,sign,0,0,0,,{\an4\bord0\b1\fs30\c&HD4CABE&\pos(149.3,898.7)}Kan Savaşçısı
+Dialogue: 1,0:00:38.28,0:00:43.14,screen_text,sign,0,0,0,,{\an4\bord0\b1\fs27\c&HD4CABE&\pos(149.3,949.3)}Toplam Sıra: 53
+Dialogue: 0,0:00:38.28,0:00:43.14,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H0&\c&H20160B&\pos(144,872)}m 0 0 l 435 0 435 24 0 24
+Dialogue: 0,0:00:38.28,0:00:43.14,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H0&\c&H20160B&\pos(144,926)}m 0 0 l 300 0 300 24 0 24
+Dialogue: 0,0:00:41.12,0:00:44.31,Default,Roy,0,0,0,,{\an8}Sen sadece bir Kara Büyücüsün.
+Dialogue: 0,0:00:44.31,0:00:47.01,Default,Roy,0,0,0,,Bu oyunda, nadir olan\Nnormal olandan üstündür.
+Dialogue: 0,0:00:47.01,0:00:49.16,Default,Roy,0,0,0,,Ve epik olan da nadir olandan üstündür!
+Dialogue: 0,0:00:49.16,0:00:51.40,Default,Roy,0,0,0,,Her şey, değerlerinin ne\Nkadar yüksek olduğuna bağlı.
+Dialogue: 0,0:00:51.86,0:00:53.55,Default,Roy,0,0,0,,Kanıt olarak...
+Dialogue: 0,0:00:55.15,0:00:56.98,Default,MC,0,0,0,,O-Onun kılıcı!
+Dialogue: 0,0:00:58.87,0:01:04.63,Default,Roy,0,0,0,,Epik sınıfa geçtiğimde bir\Nkeresinde ilk 100’e fırladım.
+Dialogue: 0,0:01:05.92,0:01:08.89,Default,Yura,0,0,0,,Bir Kan Savaşçısının özel yeteneği
+Dialogue: 0,0:01:08.89,0:01:11.92,Default,Yura,0,0,0,,pasif bir yetenek\Nolarak rakibinin HP'sini emmektir.
+Dialogue: 0,0:01:11.92,0:01:14.34,Default,Roy,0,0,0,,Öyle mi? Bunu biliyor musun?
+Dialogue: 0,0:01:14.34,0:01:17.67,Default,Yura,0,0,0,,Yani sen temelde mesleğine\Ngüveniyorsun, öyle mi?
+Dialogue: 0,0:01:17.67,0:01:19.47,Default,Yura,0,0,0,,Tıpkı senin eşyalarına güvendiğin gibi mi?
+Dialogue: 0,0:01:19.47,0:01:20.89,Default,Roy,0,0,0,,Ne dedin?
+Dialogue: 0,0:01:20.89,0:01:26.54,Default,MC,0,0,0,,Ş-Şu anda {\i1}Satisfy{\i0}'da üç epik\Nmeslek olduğu söyleniyor.
+Dialogue: 0,0:01:26.54,0:01:30.26,Default,MC,0,0,0,,Bunlardan biri Roy-san’ın\Nmesleği olan Kan Savaşçısı.
+Dialogue: 0,0:01:30.26,0:01:34.57,Default,MC,0,0,0,,İkincisi ise 7. sıradaki oyuncu\NAgnus’un kullandığı meslek,
+Dialogue: 0,0:01:34.57,0:01:37.16,Default,MC,0,0,0,,ama kendisi ayrıntıların\Ngizli tutulmasını istedi.
+Dialogue: 0,0:01:37.16,0:01:42.72,Default,MC,0,0,0,,Üçüncüsüne gelince... Kim\Nolabileceğine dair hiçbir bilgi yok!
+Dialogue: 0,0:01:42.72,0:01:45.41,Default,MC,0,0,0,,Elbette, savaşmaya dayalı olmayan
+Dialogue: 0,0:01:45.41,0:01:48.92,Default,MC,0,0,0,,nadir ve sıradan mesleklerin de\Nolduğu söyleniyor...
+Dialogue: 0,0:01:48.92,0:01:55.59,Default,MC,0,0,0,,Peki hangi kullanıcılar ve hangi meslekler,\N{\i1}Satisfy{\i0}’ın tarihini sonsuza dek değiştirecek?
+Dialogue: 0,0:01:55.59,0:01:58.46,Default,MC,0,0,0,,Bekleyip göreceğiz!
+Dialogue: 0,0:02:20.26,0:02:21.79,sign_generic,sign,0,0,0,,{\fad(51,0)\bord3\blur6\an1\fs51\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,1469,\fs16)\move(1098,762,1078,746,0,1450)}O{\c&H0A27EB&}v{\c&H1828CE&}e{\c&H1026F3&\}r{\c&H1705C3&}g{\c&H1306A0&}e{\c&H0F028F&}a{\c&H090544&}r{\c&H211D2F&}e{\c&H000000&}d
+Dialogue: 0,0:02:21.79,0:02:25.02,sign_generic,sign,0,0,0,,{\fad(0,1080)\bord3\blur6\an1\fs48\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,273,\3c&HFEFEFE&)\t(0,273,\c&H252525&)\pos(1078,746)}O{\c&H0A27EB&\t(0,273,\c&H666767&)}v{\c&H1828CE&\t(0,273,\c&H363636&)}e{\c&H1026F3&\t(0,273,\c&H7E7E7E&)}r{\c&H1705C3&\t(0,273,\c&H5E5E5E&)}g{\c&H1306A0&\t(0,273,\c&H252525&)}e{\c&H0F028F&\t(0,273,\c&H666767&)}a{\c&H090544&\t(0,273,\c&H363636&)}r{\c&H211D2F&\t(0,273,\c&H7E7E7E&)}e{\c&H000000&\t(0,273,\c&H5E5E5E&)}d
+Dialogue: 0,0:03:31.48,0:03:34.29,Default,Takumi,0,0,0,,Hastaneden bu kadar çabuk\N taburcu olmana sevindim.
+Dialogue: 0,0:03:34.29,0:03:39.74,Default,Kahn,0,0,0,,Evet. Hâlâ senin gibi genç çocuklar\Nvarsa, bu dünya o kadar da kötü değil.
+Dialogue: 0,0:03:39.74,0:03:43.28,Default,Takumi,0,0,0,,Ben olmasaydım, \Ndoktora bile gidemezdin.
+Dialogue: 0,0:03:43.28,0:03:44.69,Default,Kahn,0,0,0,,Evet.
+Dialogue: 0,0:03:44.69,0:03:49.08,Default,Takumi,0,0,0,,Tabii ki, sana yardım ettikten sonra,\Nbunu bana vermek istiyorsun, değil mi?
+Dialogue: 0,0:03:49.08,0:03:50.40,Default,Kahn,0,0,0,,Evet.
+Dialogue: 0,0:03:52.54,0:03:54.89,Default,Kahn,0,0,0,,B-Bekle. İşte bu, sana\Nveremeyeceğim tek şey.
+Dialogue: 0,0:03:54.89,0:03:55.96,Default,Takumi,0,0,0,,Ne?!
+Dialogue: 0,0:03:55.96,0:03:57.74,Default,Takumi,0,0,0,,Ama hayatını kurtardım!
+Dialogue: 0,0:03:57.74,0:04:00.36,Default,Takumi,0,0,0,,Ben olmasaydım ölürdün!
+Dialogue: 0,0:04:00.36,0:04:01.70,Default,Kahn,0,0,0,,Lütfen beni anla.
+Dialogue: 0,0:04:01.70,0:04:04.72,Default,Kahn,0,0,0,,O, nesiller boyu aktarılan\Nbir aile hazinesidir.
+Dialogue: 0,0:04:04.95,0:04:06.26,Default,Takumi,0,0,0,,Aile hazinesi mi?
+Dialogue: 0,0:04:06.58,0:04:11.77,Default,Kahn,0,0,0,,Dainsleif ve Valhalla\Natalarım tarafından yapılmıştı.
+Dialogue: 0,0:04:11.77,0:04:16.52,Default,Kahn,0,0,0,,Yıllardır kimse onların\Ngücünü ortaya çıkaramamıştı.
+Dialogue: 0,0:04:16.94,0:04:21.37,Default,Kahn,0,0,0,,Ancak 130 yıl önce, bir adam ortaya çıktı.
+Dialogue: 0,0:04:21.37,0:04:22.96,Default,Kahn,0,0,0,,Adı Pagma’ydı.
+Dialogue: 0,0:04:23.35,0:04:26.86,Default,Kahn,0,0,0,,O, sadece \Nonların yeteneklerini anlamakla kalmadı,
+Dialogue: 0,0:04:26.86,0:04:29.77,Default,Kahn,0,0,0,,aynı zamanda onlarla\Nmuhteşem bir dans sergiledi.
+Dialogue: 0,0:04:29.77,0:04:33.32,Default,Kahn,0,0,0,,Ama onları almadan gitti.
+Dialogue: 0,0:04:34.08,0:04:38.91,Default,Kahn,0,0,0,,Tek söylediği, onların gerçek\Nsahibinin bir gün ortaya çıkacağıydı.
+Dialogue: 0,0:04:40.88,0:04:43.29,Default,Grid,0,0,0,,Hey! O ben olmalıyım!
+Dialogue: 0,0:04:43.29,0:04:45.38,Default,Grid,0,0,0,,Ne de olsa ben Pagma'nın Halefiyim!
+Dialogue: 0,0:04:47.09,0:04:48.36,Default,Kahn,0,0,0,,Evet...
+Dialogue: 0,0:04:49.40,0:04:52.56,Default,Kahn,0,0,0,,Onları kullanabildin...
+Dialogue: 0,0:04:54.11,0:04:58.02,Default,Kahn,0,0,0,,Ama gerçekten Pagma’nın Halefiysen,
+Dialogue: 0,0:04:58.49,0:05:01.03,Default,Kahn,0,0,0,,efsanenin doğru olduğunu kanıtlamalısın.
+Dialogue: 0,0:05:01.92,0:05:02.63,screen_text,sign,0,0,0,,{\b0\fs30\fad(88,88)\c&HEFEDEB&\3c&H677150&\bord1.5\blur3\pos(956,398.7)}Meslek Görevi
+Dialogue: 0,0:05:01.92,0:05:02.63,screen_text,sign,0,0,0,,{\b1\fs30\fad(88,88)\c&HEFEDEB&\3c&H677150&\bord1.5\blur3\pos(961.3,464.7)}Pagma’nın Halefi
+Dialogue: 0,0:05:01.92,0:05:02.63,screen_text,sign,0,0,0,,{\b1\fs30\fad(88,88)\c&HEFEDEB&\3c&H677150&\bord1.5\blur3\pos(961.3,635)}oluşturuldu
+Dialogue: 0,0:05:02.09,0:05:03.28,Default,System,0,0,0,,{\i1}Sistem rehberi.
+Dialogue: 0,0:05:03.36,0:05:06.78,Default,System,0,0,0,,{\i1}Efsanevi bir meslek görevi oluşturuldu.
+Dialogue: 0,0:05:06.78,0:05:08.57,Default,System,0,0,0,,{\i1}“Efsaneyi Kanıtla.”
+Dialogue: 1,0:05:06.84,0:05:10.78,screen_text,sign,0,0,0,,{\b0\fad(467,0)\c&HD8D2CF&\bord1\3c&H161014&\blur1.5\fs27\an8\pos(1590,38)}Meslek Görevi\N{\b1}Efsaneyi Kanıtla{\b0}\N\NPagma’nın tüm efsanelerini,\NKılıç Dansı’nı ipucu olarak kullanarak topla.\NGörev ilerledikçe ayrıntılar güncellenecektir.\N\N\N{\c&H765FAF&}*Zaman sınırı yok\N*Efsanevi meslek görevi başladıktan sonra,\Nmeslek değiştirilemez\N\N\N{\c&HD8D2CF&}Tamamlama Koşulu: İlgili tüm görevleri tamamlayın.\NTamamlama Ödülü: Bilinmiyor\N{\c&H765FAF&}*Her görev tamamlandıktan sonra kazanılır.
+Dialogue: 0,0:05:06.84,0:05:10.78,screen_text,sign,0,0,0,,{\fad(467,0)\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 600 0 600 174 0 174
+Dialogue: 0,0:05:08.57,0:05:12.76,Default,System,0,0,0,,{\i1}Bu, efsanevi demirci Pagma'nın da dahil olduğu\Nbirden fazla bölümden oluşan bir görevdir.
+Dialogue: 0,0:05:12.76,0:05:17.43,Default,System,0,0,0,,{\i1}Tüm bölümleri tamamladığınızda dünyayı\Ndeğiştirecek güce sahip olacaksınız.
+Dialogue: 0,0:05:17.85,0:05:20.25,Default,Grid,0,0,0,,{\i1}Bu çılgın bir ödül...
+Dialogue: 0,0:05:21.02,0:05:21.75,screen_text,sign,0,0,0,,{\b0\fs30\fad(88,1)\c&HEFEDEB&\3c&H677150&\bord1.5\blur3\pos(956,396.7)}Meslek Görevi
+Dialogue: 0,0:05:21.02,0:05:21.75,screen_text,sign,0,0,0,,{\b1\fs30\fad(88,1)\c&HEFEDEB&\3c&H677150&\bord1.5\blur3\pos(959.3,466.7)}Pagma'nın Halefi
+Dialogue: 0,0:05:21.02,0:05:21.75,screen_text,sign,0,0,0,,{\b1\fs30\fad(88,1)\c&HEFEDEB&\3c&H677150&\bord1.5\blur3\pos(955.3,633)}şimdi başlayacak
+Dialogue: 0,0:05:21.27,0:05:24.58,Default,Grid,0,0,0,,{\i1}Yani bir gün bu kılıcı\Nve zırhı alacağım mı?
+Dialogue: 0,0:05:24.58,0:05:26.26,Default,Grid,0,0,0,,{\i1}Öyleyse...
+Dialogue: 0,0:05:26.26,0:05:28.08,Default,Grid,0,0,0,,{\i1}Onları hemen bana ver!
+Dialogue: 0,0:05:28.08,0:05:30.51,Default,Kahn,0,0,0,,O acınası surat da neyin nesi?
+Dialogue: 0,0:05:30.51,0:05:33.89,Default,Kahn,0,0,0,,Pagma’nın Halefi olduğun konusunda\Nyalan söylediğini anlamıştım.
+Dialogue: 0,0:05:33.89,0:05:35.01,Default,Takumi,0,0,0,,Ne?!
+Dialogue: 0,0:05:35.01,0:05:37.56,Default,Grid,0,0,0,,Peki o zaman! Sana yeteneğimi göstereceğim!
+Dialogue: 0,0:05:37.56,0:05:39.63,Default,Grid,0,0,0,,Hadi artık bana demirci olmayı öğret!
+Dialogue: 0,0:05:39.63,0:05:42.83,Default,Kahn,0,0,0,,Tanrım, ne kadar da acelecisin.
+Dialogue: 0,0:05:43.28,0:05:46.44,Default,Kahn,0,0,0,,Önce demirci ocağını\Nyeniden inşa etmemiz gerekiyor.
+Dialogue: 0,0:05:46.44,0:05:49.43,Default,Kahn,0,0,0,,Mero Şirketi geri gelebilir.
+Dialogue: 0,0:05:53.41,0:05:54.66,Default,Valmont,0,0,0,,Rabbit...
+Dialogue: 0,0:05:55.25,0:05:58.29,Default,Valmont,0,0,0,,Sanırım o demirci dükkanıyla\Nilgili işler yolunda gidiyor, değil mi?
+Dialogue: 0,0:05:58.92,0:05:59.78,Default,Rabbit,0,0,0,,Evet.
+Dialogue: 0,0:05:59.78,0:06:02.13,Default,Rabbit,0,0,0,,Her şey yerli yerinde.
+Dialogue: 0,0:06:02.13,0:06:04.38,Default,Valmont,0,0,0,,Neden bu kadar uzun sürüyor?
+Dialogue: 0,0:06:04.38,0:06:07.13,Default,Valmont,0,0,0,,Birkaç serseri topla\Nve orayı yerle bir et!
+Dialogue: 0,0:06:07.13,0:06:10.94,Default,Rabbit,0,0,0,,Yerel Lord Earl Steim, bunu\Npek hoş karşılamayacaktır.
+Dialogue: 0,0:06:10.94,0:06:14.92,Default,Rabbit,0,0,0,,Mero Şirketi’nin itibarını\Nzedelemekten kaçınmalıyız.
+Dialogue: 0,0:06:16.07,0:06:17.25,Default,Valmont,0,0,0,,Neyse, ne olursa olsun.
+Dialogue: 0,0:06:17.25,0:06:20.08,Default,Valmont,0,0,0,,Ee? İşe yarayacak, değil mi?
+Dialogue: 0,0:06:21.58,0:06:23.90,Default,Rabbit,0,0,0,,Doğru adamı işe aldım.
+Dialogue: 0,0:06:24.22,0:06:26.95,Default,Rabbit,0,0,0,,Altın dil sahibi bir adam.
+Dialogue: 0,0:06:33.44,0:06:35.99,Default,Man,0,0,0,,Şu yeni gelen, Veil’in çetesini mi yendi?
+Dialogue: 0,0:06:36.64,0:06:39.00,Default,Man,0,0,0,,Bana çocuk gibi görünüyor.
+Dialogue: 0,0:06:39.00,0:06:41.49,Default,Kahn,0,0,0,,Hayır, etkileyici biri.
+Dialogue: 0,0:06:41.49,0:06:43.72,Default,Kahn,0,0,0,,Gerçi aptal gibi görünüyor, kabul ediyorum.
+Dialogue: 0,0:06:43.72,0:06:44.84,Default,Grid,0,0,0,,Hey!
+Dialogue: 0,0:06:45.17,0:06:46.71,Default,Grid,0,0,0,,Seni duyabiliyorum!
+Dialogue: 0,0:06:46.71,0:06:48.85,Default,Man,0,0,0,,Oh, bunu gördün mü?
+Dialogue: 0,0:06:50.17,0:06:52.68,Default,Kahn,0,0,0,,Mero Şirketi'nin iş ilanı mı?
+Dialogue: 0,0:06:52.68,0:06:56.82,Default,Man,0,0,0,,Yeni mağazalarında \Nbizi işe alacaklar.
+Dialogue: 0,0:06:56.82,0:06:58.98,Default,Man,0,0,0,,Maaş düşündüğümden daha iyi ve...
+Dialogue: 0,0:07:04.67,0:07:05.69,Default,Huroi,0,0,0,,Şey...
+Dialogue: 0,0:07:06.20,0:07:07.31,Default,Huroi,0,0,0,,Mero Şirketi'nin
+Dialogue: 0,0:07:07.31,0:07:10.86,Default,Huroi,0,0,0,,tüm işletmelerinizin haklarını\Npeyzoon bir fiyata satın aldığını duydum.
+Dialogue: 0,0:07:11.19,0:07:13.37,Default,Huroi,0,0,0,,Seni bunu kabul etmeye zorladılar mı?
+Dialogue: 0,0:07:13.90,0:07:16.87,Default,Grid,0,0,0,,{\i1}O da benim gibi bir oyuncu.
+Dialogue: 0,0:07:16.87,0:07:18.75,Default,Man,0,0,0,,Kapa çeneni, yabancı!
+Dialogue: 0,0:07:18.75,0:07:20.88,Default,Man,0,0,0,,Onlar için casusluk mu yapıyorsun?!
+Dialogue: 0,0:07:20.88,0:07:23.82,Default,Huroi,0,0,0,,Hayır, hayır, ben senin tarafındayım.
+Dialogue: 0,0:07:23.82,0:07:26.67,Default,Huroi,0,0,0,,Ama herkes işçi arıyor.
+Dialogue: 0,0:07:27.02,0:07:30.09,Default,Huroi,0,0,0,,Eğer Mero Şirketi gibi büyük \Nbir yerde çalışsaydın,
+Dialogue: 0,0:07:30.09,0:07:32.59,Default,Huroi,0,0,0,,para konusunda çok daha az endişen olurdu.
+Dialogue: 0,0:07:33.01,0:07:34.34,Default,Man,0,0,0,,B-Bu...
+Dialogue: 0,0:07:35.10,0:07:36.10,Default,Man,0,0,0,,O haklı!
+Dialogue: 0,0:07:36.49,0:07:38.39,Default,Huroi,0,0,0,,Bu demirci dükkanında da durum aynı.
+Dialogue: 0,0:07:38.75,0:07:41.27,Default,Huroi,0,0,0,,Mero Şirketi burayı devralsa bile,
+Dialogue: 0,0:07:41.27,0:07:43.25,Default,Huroi,0,0,0,,sadece sahibi değişir.
+Dialogue: 0,0:07:43.25,0:07:44.31,Default,Grid,0,0,0,,{\i1\an8}Bu...
+Dialogue: 0,0:07:43.68,0:07:48.15,Default,Huroi,0,0,0,,Asıl işi yapanlar hâlâ sizler olduğunuz\Nsürece, kimse bir şey kaybetmez.
+Dialogue: 0,0:07:45.61,0:07:46.94,Default,Grid,0,0,0,,{\i1\an8}Bu tuhaf his de ne?
+Dialogue: 0,0:07:49.77,0:07:52.61,Default,Kahn,0,0,0,,Dışarıdan biri olarak, bu\Nkonuya oldukça ilgi göstermişsin.
+Dialogue: 0,0:07:52.61,0:07:53.66,Default,Kahn,0,0,0,,Adın ne?
+Dialogue: 0,0:07:54.63,0:07:55.42,Default,Huroi,0,0,0,,Huroi.
+Dialogue: 0,0:07:55.83,0:07:57.41,Default,Huroi,0,0,0,,Adım Huroi.
+Dialogue: 0,0:07:57.41,0:07:58.49,Default,Kahn,0,0,0,,Huroi.
+Dialogue: 0,0:07:58.49,0:08:03.04,Default,Kahn,0,0,0,,Belki de haklısın, daha büyük bir\Nkuruluşla bir arada yaşamak iyi bir şeydir.
+Dialogue: 0,0:08:03.04,0:08:06.29,Default,Kahn,0,0,0,,Ama bu köyde, köylü\Nhakları diye bir şey var.
+Dialogue: 0,0:08:06.29,0:08:08.08,Default,Huroi,0,0,0,,Köylü hakları mı?
+Dialogue: 0,0:08:08.08,0:08:12.63,Default,Kahn,0,0,0,,Efendimiz Kont Steim tarafından\Nbizim için oluşturulan bir yasa.
+Dialogue: 0,0:08:12.85,0:08:14.77,Default,Kahn,0,0,0,,Yerel halkın,\Nbölgeyle ilgili bilgileri
+Dialogue: 0,0:08:14.77,0:08:17.64,Default,Kahn,0,0,0,,herkesten daha önce\Nalma hakkı vardır.
+Dialogue: 0,0:08:17.94,0:08:22.14,Default,Kahn,0,0,0,,Bize fayda sağlayabilecek her türlü\Nbilgiyi görmemiz garanti altındadır.
+Dialogue: 0,0:08:22.39,0:08:26.19,Default,Kahn,0,0,0,,Kont, hayatlarımızı her\Nşeyden önce düşünür.
+Dialogue: 0,0:08:26.65,0:08:31.57,Default,Kahn,0,0,0,,Ancak Mero Şirketi buraya gelip,\Ntüm bilgileri kendilerine saklamak için
+Dialogue: 0,0:08:31.57,0:08:33.37,Default,Kahn,0,0,0,,lordun temsilcisiyle işbirliği yaptı.
+Dialogue: 0,0:08:33.37,0:08:36.24,Default,Kahn,0,0,0,,Bu, kontun isteklerine aykırıdır.
+Dialogue: 0,0:08:36.99,0:08:39.16,Default,Kahn,0,0,0,,Buna izin verilemez.
+Dialogue: 0,0:08:40.40,0:08:41.90,Default,Huroi,0,0,0,,Anlıyorum.
+Dialogue: 0,0:08:42.62,0:08:47.66,Default,Huroi,0,0,0,,O halde kontun yanına gidip şirketin\Nkötü davranışlarını ona anlatacağım!
+Dialogue: 0,0:08:47.66,0:08:51.38,Default,Huroi,0,0,0,,Eğer söylediklerin doğru\Nçıkarsa, işler daha iyiye gider!
+Dialogue: 0,0:08:51.38,0:08:53.58,Default,Man,0,0,0,,Bu... Bu harika olur!
+Dialogue: 0,0:08:53.58,0:08:55.80,Default,Man,0,0,0,,Lütfen! Bize yardım et!
+Dialogue: 0,0:08:55.80,0:08:59.55,Default,Kahn,0,0,0,,Hmm... Görünüşe göre\Nharika bir genç adamsın.
+Dialogue: 0,0:09:00.39,0:09:01.78,Default,Grid,0,0,0,,{\i1}Biliyordum.
+Dialogue: 0,0:09:02.24,0:09:05.14,Default,Grid,0,0,0,,{\i1}O bir oyuncu, ama
+Dialogue: 0,0:09:05.87,0:09:10.17,Default,Grid,0,0,0,,{\i1}Bir görev mi oluşturdu ve\Nkendi başına değişiklikler mi yaptı?
+Dialogue: 0,0:09:14.99,0:09:15.92,Default,Grid,0,0,0,,Hey!
+Dialogue: 0,0:09:18.03,0:09:19.08,Default,Huroi,0,0,0,,Ne oldu?
+Dialogue: 0,0:09:19.67,0:09:23.33,Default,Grid,0,0,0,,Başından beri açıkça\NMero Şirketi için çalışıyordun.
+Dialogue: 0,0:09:23.57,0:09:25.90,Default,Grid,0,0,0,,Başka bir görev nasıl oluşturdun?
+Dialogue: 0,0:09:26.34,0:09:29.04,Default,Huroi,0,0,0,,Oh, fark ettin, ha?
+Dialogue: 0,0:09:29.04,0:09:30.71,Default,Grid,0,0,0,,Sadede gel!
+Dialogue: 0,0:09:31.02,0:09:32.34,Default,Huroi,0,0,0,,Tamam, tamam.
+Dialogue: 0,0:09:32.34,0:09:36.63,Default,Huroi,0,0,0,,Köylülere yardım edersem benden daha\Nfazla çıkar sağlayacağıma karar verdim
+Dialogue: 0,0:09:36.63,0:09:39.14,Default,Huroi,0,0,0,,ve bu oyunun özgürlüğünden yararlandım.
+Dialogue: 0,0:09:39.54,0:09:44.64,Default,Huroi,0,0,0,,NPC’lerin hayatlarına karışırsan,\Nbazen gizli bir görev tetiklenebilir.
+Dialogue: 0,0:09:44.64,0:09:46.02,Default,Huroi,0,0,0,,Tıpkı böyle.
+Dialogue: 0,0:09:46.41,0:09:48.13,Default,Huroi,0,0,0,,Görev bilgilerini paylaş.
+Dialogue: 0,0:09:50.65,0:09:53.07,screen_text,sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 600 0 600 195 0 195
+Dialogue: 1,0:09:50.65,0:09:53.07,screen_text,sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs25\an8\pos(1590,45.667)}Gizli Görev\N {\b1}Winston Köylüleri İçin (A){\b0}\N\NKöylüleri ikna etmeye yönelik Mero Şirketi görevini\N bıraktın ve şirketin yaptıklarını Kont Steim'a\N anlatmak üzere başkent "Frontier"a gitmeye söz verdin.\N\NTamamlama Koşulu: Şirketin saldırılarını\N savuştur ve Kont Steim ile görüş.\N Tamamlama Ödülü: "Adalet Elçisi" unvanı\N Adalet Elçisi: "Cesaret" niteliği açılır.\NTüm nitelikler +10. "Sarsılmaz Adalet" becerisi kazanılır.\N {\c&H381EA1&}Başarısızlık: Mero Şirketi tarafından yakalanmak.\N\N{\c&HD8D2CF&}Seviye -1\N Yeni bir lord görevi devralana kadar Winston'a girişin yasaklanır.
+Dialogue: 0,0:09:51.05,0:09:52.80,Default,Grid,0,0,0,,O-O ödül çılgınca!
+Dialogue: 0,0:09:52.80,0:09:54.82,Default,Grid,0,0,0,,Bunu yapabileceğini bilmiyordum!
+Dialogue: 0,0:09:55.87,0:09:57.80,Default,Huroi,0,0,0,,Tabii ki bilemezdin.
+Dialogue: 0,0:09:57.80,0:10:01.11,Default,Huroi,0,0,0,,Sadece oyunun ilk\Nkullanıcıları bunu biliyor.
+Dialogue: 0,0:10:01.11,0:10:04.49,Default,Grid,0,0,0,,Ha?! Ben de oyun çıktığında\Noynamaya başladım, biliyor musun!
+Dialogue: 0,0:10:04.49,0:10:06.79,Default,Grid,0,0,0,,Bu lanet oyuna ne kadar\Npara harcadığımı biliyor musun?!
+Dialogue: 0,0:10:08.62,0:10:09.87,Default,Huroi,0,0,0,,Çok komiksin!
+Dialogue: 0,0:10:09.87,0:10:11.96,Default,Grid,0,0,0,,Kapa çeneni! Canın cehenneme!
+Dialogue: 0,0:10:11.96,0:10:16.11,Default,Huroi,0,0,0,,Arkadaş olmak isterdim,\Nama şu anda yapmam gereken bir iş var.
+Dialogue: 0,0:10:16.11,0:10:17.00,Default,Huroi,0,0,0,,Görüşürüz!
+Dialogue: 0,0:10:17.51,0:10:18.95,Default,Grid,0,0,0,,Seni bir daha asla görmek istemiyorum!
+Dialogue: 0,0:10:18.95,0:10:20.53,Default,Grid,0,0,0,,Defol git!
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(942,423.3)}m 0 0 l 165 0 165 24 0 24
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(942,423.3)}m 0 0 l 165 0 165 24 0 24
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(1171.3,447.3)}m 0 0 l 165 0 165 24 0 24
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(995.3,548.7)}m 0 0 l 165 0 165 24 0 24
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(1014,610)}m 0 0 l 165 0 165 24 0 24
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(990,492.7)}m 0 0 l 165 0 165 24 0 24
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(1195.3,503.3)}m 0 0 l 90 0 90 24 0 24
+Dialogue: 0,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\blur6\an7\bord0\p1\fscy220\alpha&H20&\c&H977C65&\fad(93,0)\frz10.53\pos(1211.3,567.3)}m 0 0 l 90 0 90 24 0 24
+Dialogue: 1,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\fs54\fad(93,0)\c&HEEE8E3&\frz11.59\pos(1026.7,402.7)}Huroi
+Dialogue: 1,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\fs54\fad(93,0)\c&HEEE8E3&\frz11.59\an7\pos(1016,477.3)}Meslek: Hitabetçi
+Dialogue: 1,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\fs54\fad(93,0)\c&HEEE8E3&\frz11.59\an7\pos(1013.3,538.7)}Nadirlik: Nadir
+Dialogue: 1,0:10:22.87,0:10:24.51,screen_text,sign,0,0,0,,{\fs54\fad(93,0)\c&HEEE8E3&\frz11.59\an7\pos(1072,594.7)}Unvan: Yok
+Dialogue: 0,0:10:26.20,0:10:29.29,Default,Huroi,0,0,0,,Ne pahasına olursa olsun\Nbu görevi tamamlayacağım!
+Dialogue: 0,0:10:41.77,0:10:45.16,Default,Rabbit,0,0,0,,Earl Steim’i ziyaret ederek\Nzamanını boşa harcıyorsun.
+Dialogue: 0,0:10:47.17,0:10:53.63,Default,Rabbit,0,0,0,,Senden Kahn’ı ve köylüleri ikna edip o\Ndemirci dükkânını almayı istememiş miydim?
+Dialogue: 0,0:10:56.15,0:10:59.73,Default,Huroi,0,0,0,,Sadece onların isteğine\Nkatılıyormuş gibi yapıyordum.
+Dialogue: 0,0:10:59.73,0:11:02.89,Default,Huroi,0,0,0,,Beyin yıkamanın bir parçası da insanların senin\Nyanında rahat hissetmelerini sağlamaktır, değil mi?
+Dialogue: 0,0:11:03.82,0:11:06.14,Default,Rabbit,0,0,0,,Senin ağzından çıkan bu bahane çok zayıf.
+Dialogue: 0,0:11:08.96,0:11:11.61,Default,Rabbit,0,0,0,,Hadi bu haini hapse atalım.
+Dialogue: 0,0:11:11.98,0:11:14.25,Default,Rabbit,0,0,0,,Onu yeraltı zindanına götürün.
+Dialogue: 0,0:11:20.34,0:11:22.33,Default,Huroi,0,0,0,,Bunu nasıl bildi?
+Dialogue: 0,0:11:23.20,0:11:27.90,Default,Huroi,0,0,0,,İlk gizli görevim, ve işte\Nböyle mi başarısız oluyor?
+Dialogue: 0,0:11:27.90,0:11:31.25,Default,System,0,0,0,,{\i1}Sistem uyarısı. Görev değişti.
+Dialogue: 0,0:11:31.96,0:11:34.13,Default,System,0,0,0,,{\i1}Yeni görevin “Bekleme (S).”
+Dialogue: 0,0:11:33.25,0:11:39.01,screen_text,sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H6F5C50&}m 0 0 l 600 0 600 318 0 318
+Dialogue: 0,0:11:34.13,0:11:35.84,Default,Huroi,0,0,0,,Görev mi değişti?
+Dialogue: 0,0:11:34.81,0:11:37.82,Default,System,0,0,0,,{\i1}Bu görev son derece tehlikeli.
+Dialogue: 0,0:11:36.44,0:11:39.01,Default,Huroi,0,0,0,,Gerçek gizli görev bu mu?
+Dialogue: 0,0:11:37.82,0:11:41.82,Default,System,0,0,0,,{\i1}Fiziksel durumunuzdan endişe\Nduyuyorsanız, lütfen görevden vazgeçin.
+Dialogue: 0,0:11:39.63,0:11:43.15,Default,Huroi,0,0,0,,{\an8}Sekiz gün mü?! Bu gerçek\Nzamanla elli saat eder!
+Dialogue: 0,0:11:43.85,0:11:47.37,Default,Huroi,0,0,0,,Şimdiye kadar en fazla\Nyapabildiğim yirmi saatti!
+Dialogue: 0,0:11:48.42,0:11:49.67,Default,Huroi,0,0,0,,Elli saat...
+Dialogue: 0,0:11:50.03,0:11:52.65,Default,Huroi,0,0,0,,Beyin dalgalarımda herhangi bir \Nanormal durum olursa,
+Dialogue: 0,0:11:53.44,0:11:55.82,Default,Huroi,0,0,0,,oyun beni kendiliğinden oyundan atacak!
+Dialogue: 0,0:11:56.81,0:11:58.77,Default,Huroi,0,0,0,,Ve o zaman elimde hiçbir şey kalmayacak!
+Dialogue: 0,0:11:59.96,0:12:01.11,screen_text,sign,0,0,0,,{\fad(134,0)\fs45\c&HEEEBEB&\bord1\3c&H655B57&\blur1.5\b1\pos(962,354)}Görevi bırakacak mısın?
+Dialogue: 0,0:12:07.87,0:12:10.37,screen_text,sign,0,0,0,,{\3c&H5C4F45&\c&HEEEBEB&\bord1\blur1.5\b1\pos(1032,18)\frz357.6\frx4\fry10}Görevi bırakacak mısın?
+Dialogue: 0,0:12:14.37,0:12:16.60,screen_text,sign,0,0,0,,{\3c&H5C4F45&\c&HEEEBEB&\bord1\blur1.5\b1\pos(1032,18)\frz357.6\frx4\fry10}Görevi bırakacak mısın?
+Dialogue: 0,0:12:16.44,0:12:17.67,screen_text,sign,0,0,0,,{\fad(170,0)\3c&H5C4F45&\c&HEDEBEB&\bord0.75\blur2.3\b1\frz358\frx10\fry10\pos(1028,24)}Görev Alındı
+Dialogue: 0,0:12:16.44,0:12:17.67,screen_text,sign,0,0,0,,{\fs39\fad(170,0)\3c&H5C4F45&\c&HEEEBEB&\bord0.5\blur1.5\b1\frx12\fry10\frz359.2\pos(1024,218)}Kalan Süre
+Dialogue: 0,0:12:18.28,0:12:20.73,Default,Huroi,0,0,0,,Ne olursa olsun bu görevi tamamlayacağım!
+Dialogue: 0,0:12:22.17,0:12:24.82,Default,Huroi,0,0,0,,Bekliyorum, Adalet Elçisi!
+Dialogue: 0,0:12:30.03,0:12:32.30,Default,Hinako,0,0,0,,B408 görevi başladı.
+Dialogue: 0,0:12:32.65,0:12:34.98,Default,Hinako,0,0,0,,Acil bir yönetim kurulu\Ntoplantısı başlatacağız.
+Dialogue: 0,0:12:34.98,0:12:36.90,screen_text,sign,0,0,0,,{\blur0.8\bord0\b1\fs30\c&HB7B5B5&\pos(1482,740)}Kalan Süre
+Dialogue: 0,0:12:37.53,0:12:39.40,Default,Yazaki,0,0,0,,B408...
+Dialogue: 0,0:12:39.62,0:12:44.16,Default,Futaba,0,0,0,,Sadece özel koşullar altında ortaya\Nçıkan bir S-sınıfı gizli görev mi?
+Dialogue: 0,0:12:44.16,0:12:44.85,Default,Hinako,0,0,0,,Evet.
+Dialogue: 0,0:12:44.85,0:12:47.91,Default,Hinako,0,0,0,,Eğer tamamlanırsa,\Nbu, iki mesleğe sahip ilk
+Dialogue: 0,0:12:48.36,0:12:51.29,Default,Hinako,0,0,0,,{\i1}Satisfy{\i0} kullanıcısının ortaya\Nçıkmasına neden olacak.
+Dialogue: 0,0:12:51.71,0:12:55.43,Default,Sakeda,0,0,0,,Şimdiye kadar insanlar nadir\Nmeslekler üzerine odaklanmıştı.
+Dialogue: 0,0:12:55.77,0:13:00.50,Default,Sakeda,0,0,0,,Ancak ikinci mesleklerin varlığı\Nortaya çıktığında bu durum değişecek.
+Dialogue: 0,0:13:01.21,0:13:05.92,Default,Sakeda,0,0,0,,Bu görev, {\i1}Satisfy{\i0} için\Nbüyük bir öneme sahiptir.
+Dialogue: 0,0:13:09.82,0:13:14.53,Default,Hinako,0,0,0,,Görev 408B’yi denemeye çalışan\Noyuncunun kimliği Huroi’dir.
+Dialogue: 0,0:13:14.89,0:13:17.60,Default,Hinako,0,0,0,,Gerçek adı Damb Allunbatar’dır.
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs30\c&HB88168&\frx12\fry10\frz355\pos(853,188)}Profil
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\bord0\fs30\c&HB88168&\frz356.8\frx12\fry10\pos(944,574)}Huroi
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs24\c&H707070&\frx12\fry10\frz355.9\pos(851,672)}Kayıt Tarihi
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs24\c&H707070&\frx12\fry10\frz355.9\pos(739,746)}Cinsiyet
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs30\c&HB88168&\frz356.8\frx12\fry10\pos(764,786)}Erkek
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs24\c&H707070&\frx12\fry10\frz355.9\pos(987,762)}Meslek
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs30\c&HB88168&\frz356.8\frx12\fry10\pos(1042,804)}Hitabetçi
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs24\c&H707070&\frx12\fry10\frz355.9\pos(741,828)}Üyelik
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs30\c&HB88168&\frz356.8\frx12\fry10\pos(753,870)}Yok
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs24\c&H707070&\frx12\fry10\frz355.9\pos(735,909)}Silah
+Dialogue: 0,0:13:14.89,0:13:19.90,sign_generic,sign,0,0,0,,{\an1\bord0\fs30\c&HB88168&\frz356.8\frx12\fry10\pos(762,954)}Hançer
+Dialogue: 0,0:13:17.60,0:13:22.93,Default,Hinako,0,0,0,,24 yaşındaki Moğol kullanıcı,\Nşu anda 126. seviye bir Hitabetçi.
+Dialogue: 0,0:13:23.40,0:13:26.66,Default,Hinako,0,0,0,,Bugüne kadarki en uzun\Nkesintisiz oturum süresi yirmi saatti.
+Dialogue: 0,0:13:27.58,0:13:30.12,Default,Hinako,0,0,0,,Yaşamsal belirtilerinde\Nherhangi bir anormallik yoktu,
+Dialogue: 0,0:13:30.12,0:13:33.12,Default,Hinako,0,0,0,,ancak psikolojik stres \Noldukça yüksek görünüyordu.
+Dialogue: 0,0:13:33.12,0:13:37.12,Default,Hinako,0,0,0,,Kapsülün zorla çıkış mekanizması\Ndevreye girmek üzereydi.
+Dialogue: 0,0:13:37.80,0:13:43.38,Default,Hinako,0,0,0,,Bu verilere göre, görevi tamamlama\Nihtimalini %9 olarak tahmin ediyoruz.
+Dialogue: 0,0:13:43.79,0:13:45.12,Default,Yazaki,0,0,0,,Çok düşük.
+Dialogue: 0,0:13:45.12,0:13:47.43,Default,Futaba,0,0,0,,Tehlike daha büyük...
+Dialogue: 0,0:13:47.68,0:13:51.45,Default,Hinako,0,0,0,,Ayrıca, Huroi'yi kurtarmakla görevli \N"Adalet Elçisi"
+Dialogue: 0,0:13:51.45,0:13:53.94,Default,Hinako,0,0,0,,aslında bir NPC olması gerekiyordu, ama...
+Dialogue: 0,0:13:53.94,0:13:55.69,Default,Shisamura,0,0,0,,Bir değişken mi ortaya çıktı?
+Dialogue: 0,0:13:55.69,0:13:57.46,Default,Shisamura,0,0,0,,Bu kaza...
+Dialogue: 0,0:13:57.98,0:14:01.04,Default,Sakeda,0,0,0,,Görünüşe göre, görevi \Npaylaştığı kullanıcı
+Dialogue: 0,0:14:01.04,0:14:04.48,Default,Sakeda,0,0,0,,Adalet Elçisi olarak değerlendirilecek.
+Dialogue: 0,0:14:04.78,0:14:07.72,Default,Sakeda,0,0,0,,Her ne kadar kendisi\Nbunun farkında olmasa da.
+Dialogue: 0,0:14:08.45,0:14:12.90,Default,Yazaki,0,0,0,,Peki, zindanda Huroi’yi kurtarabilecek mi?
+Dialogue: 0,0:14:09.72,0:14:12.25,Default,Seira,0,0,0,,{\an8}Kardeşim, soğuk alacaksın.
+Dialogue: 0,0:14:12.25,0:14:13.49,Default,Seira,0,0,0,,{\an8}İğrenç, bira kokusu geliyor!
+Dialogue: 0,0:14:13.49,0:14:17.75,Default,Sakeda,0,0,0,,Bu NPC’nin gittiği yöne bakarak,
+Dialogue: 0,0:14:18.05,0:14:19.93,Default,Sakeda,0,0,0,,bir teori geliştirebiliriz.
+Dialogue: 0,0:14:20.89,0:14:26.26,Default,Sakeda,0,0,0,,Bunun anahtarı muhtemelen\Nüçüncü destansı mesleğin sahibi.
+Dialogue: 0,0:14:29.38,0:14:30.75,Default,Rabbit,0,0,0,,Bir tesadüf...
+Dialogue: 0,0:14:30.75,0:14:33.81,Default,Rabbit,0,0,0,,Ben tesadüflere pek inanmam.
+Dialogue: 0,0:14:34.24,0:14:36.66,Default,Rabbit,0,0,0,,Ama bu işe yararsa,
+Dialogue: 0,0:14:44.25,0:14:46.69,sign_generic,sign,0,0,0,,{\shad3\bord1\fs48\fad(216,0)\fnArial Black\c&HF5FAFC&\3c&H1B1B1B&\4c&H1B1B1B&\pos(712,885)}Ebedi Krallık, Kont Steim’in Toprakları
+Dialogue: 0,0:14:44.25,0:14:46.69,sign_generic,sign,0,0,0,,{\shad3\bord1\fs48\fad(216,0)\fnArial Black\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(1298,885)}Akero Zindanı
+Dialogue: 0,0:14:47.13,0:14:49.13,Default,Adventurers,0,0,0,,Lütfen grubumuza katıl!
+Dialogue: 0,0:14:49.13,0:14:51.37,Default,Adventurers,0,0,0,,Hayır, bizimkine katıl!
+Dialogue: 0,0:14:51.37,0:14:52.78,Default,Adventurers,0,0,0,,Lütfen!
+Dialogue: 0,0:14:52.78,0:14:54.73,Default,Adventurers,0,0,0,,Euphemina-san!
+Dialogue: 0,0:14:54.73,0:14:56.93,Default,Euphemina,0,0,0,,Tamam...
+Dialogue: 0,0:14:56.93,0:15:04.67,Default,Euphemina,0,0,0,,O zaman lütfen bana neler\Nyapabileceğinizi gösterin!
+Dialogue: 0,0:15:06.30,0:15:08.82,Default,Adventurers,0,0,0,,Euphemina-san bize ait!
+Dialogue: 0,0:15:08.82,0:15:10.68,Default,Adventurers,0,0,0,,Hayır, bize!
+Dialogue: 0,0:15:11.09,0:15:13.18,Default,Adventurers,0,0,0,,Patlayıcı Peçe!
+Dialogue: 0,0:15:13.18,0:15:15.18,Default,Adventurers,0,0,0,,Yıldırım Kesici!
+Dialogue: 0,0:15:16.22,0:15:17.71,Default,Euphemina,0,0,0,,Hmm...
+Dialogue: 0,0:15:17.71,0:15:20.69,Default,Euphemina,0,0,0,,Düşündüğüm kadar iyi değil.
+Dialogue: 0,0:15:22.85,0:15:26.27,Default,Adventurers,0,0,0,,Çılgın Spiral!
+Dialogue: 0,0:15:28.17,0:15:29.74,Default,Euphemina,0,0,0,,Fena değil.
+Dialogue: 0,0:15:33.17,0:15:34.54,Default,Euphemina,0,0,0,,{\i1}Beceri Kopyalama.
+Dialogue: 0,0:15:44.39,0:15:46.25,Default,System,0,0,0,,{\i1}Beceri Kopyalama işleminiz başarılı oldu.
+Dialogue: 0,0:15:46.25,0:15:50.26,screen_text,sign,0,0,0,,{\fs45\c&HEAE5E3&\3c&H786F69&\pos(650,319.5)}Çılgın Spiral
+Dialogue: 0,0:15:46.25,0:15:50.26,screen_text,sign,0,0,0,,{\fs45\c&HEAE5E3&\3c&H777576&\pos(1256,319.5)}Kullanım Alanları
+Dialogue: 0,0:15:46.25,0:15:50.26,screen_text,sign,0,0,0,,{\an1\fs30\b0\pos(378,510)\3c&H736B66&}5 saniye boyunca bir spiral oluşturur.
+Dialogue: 0,0:15:46.25,0:15:50.26,screen_text,sign,0,0,0,,{\an1\fs30\b0\pos(378,615)\3c&H736B66&}Yarıçapı içindeki düşmanlara saniye başına\N1.530-2.380 hasar verir. Çeviklik %80 azalır.
+Dialogue: 0,0:15:46.25,0:15:50.26,screen_text,sign,0,0,0,,{\an1\fs30\b0\pos(378,783)\3c&H736B66&}Bu beceri, Beceri Kopyalama ile\Nkopyalanmıştır. Kullanana kadar saklanabilir.
+Dialogue: 0,0:15:47.24,0:15:49.70,Default,System,0,0,0,,{\i1}Bu beceriyi bir kez kullanabilirsiniz.
+Dialogue: 0,0:15:51.51,0:15:53.98,Default,Euphemina,0,0,0,,{\i1}İşte epik bir mesleğin gücü budur.
+Dialogue: 0,0:15:57.11,0:15:59.92,Default,Adventurers,0,0,0,,Ee? Artık partimize\Nkatılacak mısın...
+Dialogue: 0,0:16:00.57,0:16:02.51,Default,Adventurers,0,0,0,,Euphemina-san?
+Dialogue: 1,0:16:03.27,0:16:07.27,screen_text,sign,0,0,0,,{\c&HD8D2CF&\b0\bord1\3c&H514843&\blur1.5\fs30\an8\pos(1404.4,30)}Görev {\b1}Hain Kırmızı Şövalyeyi Mahkûm Et (S){\b0} Sahara İmparatorluğu’nun Kırmızı Şövalyeleri, kıtanın en güçlü şövalyeleridir. Eski şövalye komutanı Piaro, şu anki şövalye\Nkomutanı Asmophel’e ihanet edip onu ağır şekilde yaraladıktan sonra, Kesan Kanyonu’nda saklanıyor. Asmophel, intikamını almanı istedi. Koşul: Piaro’yu bul ve cezalandır
+Dialogue: 0,0:16:03.27,0:16:07.27,screen_text,sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 600 0 600 156 0 156
+Dialogue: 0,0:16:03.88,0:16:06.79,Default,Euphemina,0,0,0,,Kızıl Şövalye Hainini (S) yargıla.
+Dialogue: 0,0:16:07.27,0:16:10.47,Default,Euphemina,0,0,0,,Eski şövalye komutanı\N Piaro’yu bul ve yargıla.
+Dialogue: 0,0:16:11.53,0:16:14.78,Default,Euphemina,0,0,0,,Sanırım bu S-sınıfı\Ngörevi üstlenebileceğim.
+Dialogue: 0,0:16:16.92,0:16:18.62,Default,Euphemina,0,0,0,,Ne istiyorsun {\i1}sen{\i0}?
+Dialogue: 0,0:16:18.84,0:16:21.57,Default,Euphemina,0,0,0,,Bana çok uzaktan bakıyordun, değil mi?
+Dialogue: 0,0:16:22.56,0:16:25.33,Default,Rabbit,0,0,0,,Beni hatırlamıyor musun?
+Dialogue: 0,0:16:26.40,0:16:28.38,Default,Euphemina,0,0,0,,Seninle randevuya çıkmayacağım.
+Dialogue: 0,0:16:28.38,0:16:31.01,Default,Rabbit,0,0,0,,Erina adını hatırlıyor musun?
+Dialogue: 0,0:16:31.97,0:16:37.36,Default,Rabbit,0,0,0,,Mero Şirketi tarafından olağanüstü\Nyetenekleri nedeniyle işe alınmıştı,
+Dialogue: 0,0:16:37.36,0:16:40.16,Default,Rabbit,0,0,0,,ama avansı aldıktan sonra ortadan kayboldu.
+Dialogue: 0,0:16:40.16,0:16:43.23,Default,Rabbit,0,0,0,,Bir demirci... hayır.
+Dialogue: 0,0:16:43.64,0:16:46.48,Default,Rabbit,0,0,0,,Çoğaltıcı Euphemina.
+Dialogue: 0,0:16:50.23,0:16:53.43,Default,Euphemina,0,0,0,,Kullanıcıların hiçbiri henüz bilmiyor.
+Dialogue: 0,0:16:53.43,0:16:55.56,Default,Euphemina,0,0,0,,Sen biliyorsun çünkü bir NPC’sin, değil mi?
+Dialogue: 0,0:16:56.09,0:16:58.75,Default,Rabbit,0,0,0,,Buna cevap veremem.
+Dialogue: 0,0:16:59.34,0:17:02.09,Default,Rabbit,0,0,0,,Ama merak ediyorum bu kadar acelen ne?
+Dialogue: 0,0:17:03.43,0:17:07.33,Default,Euphemina,0,0,0,,Aslında zorlu bir görevle uğraşıyorum.
+Dialogue: 0,0:17:07.84,0:17:10.74,Default,Euphemina,0,0,0,,Sahra İmparatorluğu’nun\Nen güçlü şövalyesi, Piaro.
+Dialogue: 0,0:17:11.34,0:17:14.07,Default,Euphemina,0,0,0,,Onu yenmem gerekiyor.
+Dialogue: 0,0:17:15.82,0:17:19.26,Default,Rabbit,0,0,0,,Üzgünüm ama bu görevi\Nbırakmak zorunda kalacaksın.
+Dialogue: 0,0:17:19.26,0:17:20.19,Default,Euphemina,0,0,0,,Ne?
+Dialogue: 0,0:17:20.19,0:17:23.14,Default,Rabbit,0,0,0,,Başka bir görevde yardımını istiyorum.
+Dialogue: 0,0:17:24.10,0:17:26.35,screen_text,sign,0,0,0,,{\bord1.5\b0\fs54\c&HDDD6D0&\3c&H655245&\frx22\fry12\pos(1030,282)\frz358.4}Görev
+Dialogue: 0,0:17:24.10,0:17:26.35,screen_text,sign,0,0,0,,{\bord1.5\b1\fs84\c&HF7F6F5&\3c&H5B5755&\pos(1064,532)\frz0.6029\frx8\fry10}Eşya Oluşturma Maçı (Bilinmiyor)
+Dialogue: 0,0:17:24.88,0:17:26.35,Default,Euphemina,0,0,0,,Zorluk seviyesi bilinmiyor mu?
+Dialogue: 0,0:17:26.35,0:17:27.49,Default,Rabbit,0,0,0,,Doğru.
+Dialogue: 0,0:17:27.49,0:17:29.81,Default,Euphemina,0,0,0,,Sen bir NPC'sin ve beni\Nmi tehdit ediyorsun?
+Dialogue: 0,0:17:29.81,0:17:34.62,Default,Rabbit,0,0,0,,Ama bu koşullar\Nsenin için iyi, değil mi?
+Dialogue: 1,0:17:32.11,0:17:34.99,screen_text,sign,0,0,0,,{\c&HD8D2CF&\b0\bord1\3c&H514843&\blur0.5\fs35\an8\pos(1040,18.8)}Koşul: Eşya Oluşturma Maçını Kazan\Nödül: 1.500 altın\NUnvan: “Oyun Ustası”\N{\c&H3415B2&} Oyun Ustası: İstatistikler “Mücadele Ruhu” ‘Şans’\N{\c&HD8D2CF&}Beceri “Zarı At”...
+Dialogue: 0,0:17:32.11,0:17:34.99,screen_text,sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 600 0 600 69 0 69
+Dialogue: 0,0:17:39.38,0:17:40.95,Default,Grid,0,0,0,,Huroi tutuklandı mı?
+Dialogue: 0,0:17:40.95,0:17:41.99,Default,Kahn,0,0,0,,Evet.
+Dialogue: 0,0:17:41.99,0:17:44.95,Default,Kahn,0,0,0,,Kont Steim’e karşı\Nvatana ihanet şüphesiyle.
+Dialogue: 0,0:17:44.95,0:17:48.58,Default,Kahn,0,0,0,,Şu anda kalenin yeraltı\Nzindanında tutuluyor.
+Dialogue: 0,0:17:49.31,0:17:51.09,Default,Grid,0,0,0,,Bu...
+Dialogue: 0,0:17:51.09,0:17:55.29,Default,Kahn,0,0,0,,Evet, görünüşe göre Mero\NŞirketi’nde akıllı biri çalışıyor.
+Dialogue: 0,0:18:00.60,0:18:02.14,Default,Rabbit,0,0,0,,Affedersiniz.
+Dialogue: 0,0:18:02.14,0:18:05.10,Default,Rabbit,0,0,0,,Ben Mero Şirketi’nden Rabbit.
+Dialogue: 0,0:18:05.61,0:18:08.87,Default,Rabbit,0,0,0,,Efendim Valmont adına geldim.
+Dialogue: 0,0:18:12.86,0:18:17.75,Default,Kahn,0,0,0,,Yani, Huroi’yi kurtarmak istiyorsak,\Nteklifinizi kabul etmemiz mi gerekiyor?
+Dialogue: 0,0:18:18.11,0:18:19.82,Default,Rabbit,0,0,0,,Doğru.
+Dialogue: 0,0:18:19.89,0:18:21.13,Default,Grid,0,0,0,,Ha! Sanki olur da.
+Dialogue: 0,0:18:21.13,0:18:23.12,Default,Grid,0,0,0,,O adama ne olacağı umurumda değil.
+Dialogue: 0,0:18:23.45,0:18:25.67,Default,Rabbit,0,0,0,,Ne kadar kalpsizsin.
+Dialogue: 0,0:18:25.67,0:18:29.85,Default,Rabbit,0,0,0,,Sebepleri ne olursa olsun,\Nköylüleri korumaya çalıştı.
+Dialogue: 0,0:18:30.91,0:18:33.76,Default,Rabbit,0,0,0,,Tehlikeye aldırmadan,
+Dialogue: 0,0:18:33.76,0:18:36.05,Default,Rabbit,0,0,0,,onu öylece terk mi edeceksin?
+Dialogue: 0,0:18:38.46,0:18:43.01,Default,Rabbit,0,0,0,,Elbette, sırf onun özgürlüğü için demirci\Ndükkanını teslim etmeni istemiyorum.
+Dialogue: 0,0:18:44.80,0:18:48.73,Default,Rabbit,0,0,0,,Bizimle bir eşya yapım\Nyarışması yapmanı istiyorum.
+Dialogue: 0,0:18:48.73,0:18:49.72,Default,Kahn,0,0,0,,Ne?
+Dialogue: 0,0:18:49.72,0:18:54.14,Default,Rabbit,0,0,0,,Kazanırsan, demirci\Ndükkanından vazgeçeceğiz.
+Dialogue: 0,0:18:54.14,0:18:56.54,Default,Rabbit,0,0,0,,Ve Huroi’yi serbest bırakacağız.
+Dialogue: 0,0:18:57.82,0:18:58.96,Default,Kahn,0,0,0,,Peki.
+Dialogue: 0,0:18:59.32,0:19:02.49,Default,Kahn,0,0,0,,Ama ben katılmayacağım.\NYarışmaya Pagma’nın halefi...
+Dialogue: 0,0:19:02.77,0:19:05.49,Default,Kahn,0,0,0,,Pagma'nın Halefi.
+Dialogue: 0,0:19:06.24,0:19:07.75,Default,Rabbit,0,0,0,,Pagma'nın Halefi mi?
+Dialogue: 0,0:19:07.75,0:19:09.25,Default,Kahn,0,0,0,,Grid burada.
+Dialogue: 0,0:19:09.25,0:19:12.29,Default,Grid,0,0,0,,Hey! Kim sana izin verdi ki—
+Dialogue: 0,0:19:10.73,0:19:12.29,Default,System,0,0,0,,{\i1}Sistem rehberi.
+Dialogue: 0,0:19:12.29,0:19:16.96,Default,System,0,0,0,,{\i1}"Mero Şirketi ile Eşya Üretim\NYarışması" görevi oluşturuldu.
+Dialogue: 0,0:19:16.96,0:19:19.91,Default,Grid,0,0,0,,600 altın mı?!
+Dialogue: 0,0:19:18.33,0:19:19.71,Default,System,0,0,0,,{\i1}Kabul ediyor musun?
+Dialogue: 0,0:19:21.97,0:19:23.50,Default,System,0,0,0,,{\i1}Görev kabul edildi.
+Dialogue: 0,0:19:23.50,0:19:26.89,Default,Grid,0,0,0,,Gel de yakala beni, dört gözlü tuhaf herif!
+Dialogue: 0,0:19:26.89,0:19:28.41,Default,Rabbit,0,0,0,,Elbette.
+Dialogue: 0,0:19:28.41,0:19:34.15,Default,Rabbit,0,0,0,,Pagma’nın Halefi olduğun konusunda\Nyalan söylediğini kanıtlayacağım.
+Dialogue: 1,0:19:34.15,0:19:41.15,screen_text,sign,0,0,0,,{\c&HD8D2CF&\b0\bord1\3c&H514843&\blur0.5\fs26\an8\pos(1580,35.667)} Görev\N{\b1}Eşya Üretim Maçı\NMero Şirketi ile (Bilinmiyor){\b0}\N\N\NMero Şirketi sana\Ndemirhanede bir savaşa davet etti.\NKahn'ın durumu pek iyi değil ve senin\Nkendisi yerine katılmanı istedi.\N\N\NBaşarı Koşulu: Mero Şirketi’yle yapılan karşılaşmayı kazan\NBaşarı Ödülü: 600 altın ödül\N+Winston’da 500 şöhret\N\NBaşarısızlık: Winston’daki şöhret 1 olur.\NKahn, demirhanesini Mero Şirketi’ne kaybeder.
+Dialogue: 0,0:19:34.15,0:19:41.15,screen_text,sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 600 0 600 186 0 186
+Dialogue: 0,0:19:34.39,0:19:37.38,Default,Rabbit,0,0,0,,Müsabaka üç gün sonra\Nyapılacak. Bu senin için uygun mu?
+Dialogue: 1,0:19:36.56,0:19:38.44,Default,Grid,0,0,0,,{\an8}Evet, seni fena halde pataklayacağım!
+Dialogue: 0,0:19:38.44,0:19:41.15,Default,Grid,0,0,0,,O 72.000 yen benim olacak!
+Dialogue: 0,0:19:44.41,0:19:48.91,screen_text,sign,0,0,0,,{\b0\fs45\bord1.5\c&HCDC6C1&\3c&H6C5B50&\pos(970,148)}Görev
+Dialogue: 0,0:19:44.41,0:19:48.91,screen_text,sign,0,0,0,,{\b1\fs45\bord1\c&HF0F0F0&\3c&H69625D&\pos(898,330)}Bekleme
+Dialogue: 0,0:19:44.41,0:19:48.91,screen_text,sign,0,0,0,,{\b1\fs36\bord1\c&HF0F0F0&\3c&H635B55&\pos(972,378)}Kalan Süre
+Dialogue: 0,0:19:49.21,0:19:51.88,Default,Huroi,0,0,0,,Sonunda... yolun\Nyarısına geldim...
+Dialogue: 0,0:19:55.05,0:19:56.79,Default,Huroi,0,0,0,,Bunu başaracağım.
+Dialogue: 0,0:19:57.29,0:20:00.50,Default,Huroi,0,0,0,,Pes etmeyeceğim...\Nne olursa olsun...
+Dialogue: 0,0:20:02.91,0:20:04.32,Default,Grid,0,0,0,,{\i1}Beni küçümseme!
+Dialogue: 0,0:20:04.32,0:20:07.06,Default,Grid,0,0,0,,{\i1}Ben efsanevi demirciyim!
+Dialogue: 0,0:20:07.56,0:20:11.27,Default,Grid,0,0,0,,{\i1}Size efsanevi bir mesleğin neler\Nyapabileceğini göstereceğim!
+Dialogue: 0,0:20:15.27,0:20:17.37,Default,Judge,0,0,0,,Herkese merhaba!
+Dialogue: 0,0:20:17.37,0:20:24.78,Default,Judge,0,0,0,,Mero Şirketi’nin Eşya Maçı etkinliği\Niçin bir araya geldiğiniz için teşekkürler!
+Dialogue: 0,0:20:26.78,0:20:30.79,Default,Judge,0,0,0,,Şimdi, iki yarışmacımızı tanıtalım!
+Dialogue: 0,0:20:31.06,0:20:33.20,Default,Valmont,0,0,0,,Bunu gerçekten kazanabiliriz, değil mi?
+Dialogue: 0,0:20:33.20,0:20:34.42,Default,Rabbit,0,0,0,,Elbette.
+Dialogue: 0,0:20:35.13,0:20:38.17,Default,Judge,0,0,0,,Kahn’ın demirhanesinden... Grid!
+Dialogue: 0,0:20:38.17,0:20:39.66,Default,Villagers,0,0,0,,Başarabilirsin, Grid!
+Dialogue: 0,0:20:39.66,0:20:41.17,Default,Villagers,0,0,0,,Demirci dükkanını koru!
+Dialogue: 0,0:20:41.64,0:20:44.46,Default,Judge,0,0,0,,Mero Şirketi'nden... Erina!
+Dialogue: 0,0:20:48.05,0:20:50.45,Default,Euphemina,0,0,0,,Destekleriniz için teşekkürler, millet!
+Dialogue: 0,0:20:54.81,0:21:00.28,Default,Crowd,0,0,0,,{\an8}Erina! Erina! Erina!
+Dialogue: 0,0:20:58.81,0:20:59.77,Default,Grid,0,0,0,,Canın cehenneme!
+Dialogue: 0,0:21:01.27,0:21:05.78,Default,Sakeda,0,0,0,,Bu turnuva, Huroi'nin\Nkaderini belirleyecek.
+Dialogue: 0,0:21:06.29,0:21:09.84,Default,Sakeda,0,0,0,,Hinako-kun, {\i1}Satisfy{\i0}’nin Moğolistan\Nşubesiyle iletişim halinde miyiz?
+Dialogue: 0,0:21:10.19,0:21:10.79,Default,Hinako,0,0,0,,Evet.
+Dialogue: 0,0:21:11.29,0:21:15.79,Default,Hinako,0,0,0,,Yerel personel hazır bekliyor,\Ngerekirse Huroi’yi yakalamaya hazırlar.
+Dialogue: 0,0:21:17.53,0:21:20.87,Default,Sakeda,0,0,0,,Şimdi, B408 Görevi—yani,
+Dialogue: 0,0:21:18.29,0:21:24.61,screen_text,sign,0,0,0,,{\blur0.8\bord0\b1\fs30\c&HB7B5B5&\pos(1500,774)}Kalan Süre
+Dialogue: 0,0:21:20.87,0:21:24.61,Default,Sakeda,0,0,0,,{\i1}Satisfy{\i0}'nin tarihindeki ilk\Nikinci işi, ortaya çıkacak...
+Dialogue: 0,0:21:25.45,0:21:27.58,Default,Sakeda,0,0,0,,{\i1}her şey Grid'e bağlı.
+Dialogue: 0,0:21:28.00,0:21:29.28,Default,Euphemina,0,0,0,,Grid-san!
+Dialogue: 0,0:21:30.32,0:21:32.44,Default,Euphemina,0,0,0,,Tanıştığımıza memnun oldum!
+Dialogue: 0,0:21:33.37,0:21:35.56,Default,Grid,0,0,0,,Bana bu kadar samimi davranma, velet.
+Dialogue: 0,0:21:36.58,0:21:39.18,Default,Euphemina,0,0,0,,On dokuz yaşındayım.
+Dialogue: 0,0:21:39.18,0:21:40.90,Default,Euphemina,0,0,0,,Çocuk değilim!
+Dialogue: 0,0:21:40.90,0:21:43.78,Default,Grid,0,0,0,,Eh, sen benden daha çok çocuksun!
+Dialogue: 0,0:21:43.78,0:21:44.90,Default,Euphemina,0,0,0,,Gerçekten sinir bozucusun.
+Dialogue: 0,0:21:44.90,0:21:46.36,Default,Grid,0,0,0,,Hayır, sen öylesin, cüce!
+Dialogue: 0,0:21:51.46,0:21:53.75,Default,Judge,0,0,0,,B-Bekleyin, ikiniz de!
+Dialogue: 0,0:21:55.03,0:21:56.25,Default,Judge,0,0,0,,Şimdi...
+Dialogue: 0,0:21:56.25,0:21:58.35,Default,Judge,0,0,0,,Maç başlasın!
